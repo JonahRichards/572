@@ -100,7 +100,7 @@ def main(root_directory, output_csv="education_data.csv", num_workers=8):
 
 if __name__ == "__main__":
     # Replace this with your root directory that contains subdirectories with id directories.
-    root_dir = "C:/Temp/ORCID_2019_activites_5"
+    root_dir = r"C:\Projects\572a\data\5"
     
     # Run the main processing function.
     main(root_directory=root_dir, output_csv="education_data_raw.csv", num_workers=16)

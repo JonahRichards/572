@@ -1,0 +1,675 @@
+name,source_degree,source_university,source_start_year,source_end_year,source_city,source_region,source_country,destination_degree,destination_university,destination_start_year,destination_end_year,destination_city,destination_region,destination_country
+Michael Dodd,bachelors,Trent University,1995.0,1999.0,Peterborough,ON,CA,masters,University of Toronto,1999.0,2001.0,Toronto,ON,CA
+Michael Dodd,masters,University of Toronto,1999.0,2001.0,Toronto,ON,CA,phd,University of Toronto,2001.0,2005.0,Toronto,ON,CA
+Holly Alice Shiels,masters,Simon Fraser University,1994.0,1996.0,Burnaby,BC,CA,phd,Simon Fraser University,1996.0,2001.0,Burnaby,BC,CA
+Graeme Matthewson,bachelors,University of Manitoba,2005.0,2011.0,Winnipeg,MB,CA,phd,University of Calgary,2011.0,2014.0,Calgary,AB,CA
+Justin Parreno,bachelors,University of Calgary,2000.0,2004.0,Calgary,AB,CA,masters,University of Calgary,2004.0,2007.0,Calgary,AB,CA
+Justin Parreno,masters,University of Calgary,2004.0,2007.0,Calgary,AB,CA,phd,University of Toronto,2008.0,2015.0,Toronto,ON,CA
+Kevin Gagnon,bachelors,Lakehead University,2011.0,2015.0,Thunder Bay,ON,CA,masters,Lakehead University,2015.0,2016.0,Thunder Bay,ON,CA
+Yves Sabbagh,bachelors,McGill University,1993.0,1996.0,Montreal,QC,CA,masters,Université Laval,1996.0,1998.0,Quebec,QC,CA
+Yves Sabbagh,masters,Université Laval,1996.0,1998.0,Quebec,QC,CA,phd,McGill University,1998.0,2002.0,Montreal,QC,CA
+François Tremblay,bachelors,Université Laval Faculté de médecine,1982.0,1985.0,Quebec,QC,CA,masters,Université Laval Faculté de médecine,1985.0,1989.0,Quebec,QC,CA
+François Tremblay,masters,Université Laval Faculté de médecine,1985.0,1989.0,Quebec,QC,CA,phd,Université de Montréal,1991.0,1997.0,Montréal,Qc,CA
+Aaron Persad,bachelors,University of Toronto,2001.0,2006.0,Toronto,ON,CA,masters,University of Toronto,2007.0,2007.0,Toronto,ON,CA
+Aaron Persad,masters,University of Toronto,2007.0,2007.0,Toronto,ON,CA,phd,University of Toronto,2008.0,2014.0,Toronto,ON,CA
+Kim Reid,bachelors,University of Victoria,1995.0,1997.0,Victoria,BC,CA,masters,University of British Columbia,1998.0,2000.0,Vancouver,BC,CA
+Lindsay Croxall,bachelors,Ottawa University,2012.0,2015.0,Ottawa,Ontario,CA,masters,Ottawa University,2015.0,2017.0,Ottawa,Ontario,CA
+Simon Wang,bachelors,Western University,1998.0,2002.0,London,ON,CA,masters,University of Waterloo,2002.0,2004.0,Waterloo,ON,CA
+Simon Wang,masters,University of Waterloo,2002.0,2004.0,Waterloo,ON,CA,phd,Canadian Memorial Chiropractic College,2004.0,2008.0,Toronto,ON,CA
+Cristoforo Silvestri,bachelors,York University,1993.0,1997.0,Toronto,Ontario,CA,phd,University of Toronto,1997.0,2008.0,Toronto,Ontario,CA
+Alyssa Weinrauch,bachelors,University of Alberta,2009.0,2013.0,Edmonton,Alberta,CA,phd,University of Alberta,2013.0,2019.0,Edmonton,AB,CA
+NING LUO,bachelors,University of Waterloo,2010.0,2013.0,Waterloo,ON,CA,masters,University of Waterloo,2013.0,2014.0,Waterloo,ON,CA
+Jeffrey Quesnel,bachelors,McGill University,2003.0,2006.0,Montreal,QC,CA,masters,University of Alberta,2006.0,2009.0,Edmonton,AB,CA
+Jeffrey Quesnel,masters,University of Alberta,2006.0,2009.0,Edmonton,AB,CA,phd,McGill University,2009.0,2015.0,Montreal,QC,CA
+Peter Johnston,bachelors,Dalhousie University,1995.0,2000.0,Halifax,NS,CA,masters,York University,2003.0,2005.0,Toronto,ON,CA
+Peter Johnston,masters,York University,2003.0,2005.0,Toronto,ON,CA,phd,York University,2005.0,2010.0,Toronto,ON,CA
+Mark Rushton,bachelors,Saint Mary's University,1990.0,1995.0,Halifax,NS,CA,masters,Saint Mary's University,1998.0,2005.0,Halifax,Nova Scotia,CA
+Khaled Almakadmeh,masters,Concordia University,2008.0,2010.0,Montreal,QC,CA,phd,École de technologie supérieure,2010.0,2013.0,Montreal,QC,CA
+Joseph Abraham,masters,University of Ottawa,2006.0,2010.0,Ottawa,ON,CA,phd,University of Alberta,2010.0,2014.0,Edmonton,AB,CA
+Shana MacDonald,masters,York University,2003.0,2005.0,Toronto,ON,CA,phd,York University,2005.0,2013.0,Toronto,ON,CA
+Jean-Francois Lapierre,masters,Université du Québec à Trois-Rivières,2005.0,2008.0,Trois-Rivieres,QC,CA,phd,Université du Québec à Montréal Département d'histoire,2008.0,2014.0,Montreal,QC,CA
+George Vamvounis,bachelors,Saint Francis Xavier University,1996.0,1998.0,Antigonish,NS,CA,phd,Simon Fraser University and Xerox Research Centre of Canada,1998.0,2005.0,Burnaby,BC,CA
+Jonathan Briere,bachelors,UQAM Faculté des Sciences,2010.0,2015.0,Montreal,QC,CA,masters,École de Technologie Supérieure,2015.0,2018.0,Montreal,Quebec,CA
+Mehedi Masud,masters,University of Ottawa,2003.0,2005.0,Ottawa,ON,CA,phd,University of Ottawa,2005.0,2009.0,Ottawa,ON,CA
+Stephen Takyi,masters,Queen's University,2009.0,2011.0,Kingston,ON,CA,phd,University of Northern British Columbia,2012.0,2017.0,Prince George,BC,CA
+Linda Vrbova,bachelors,University of Toronto,1994.0,2000.0,Toronto,ON,CA,masters,University of Toronto,2001.0,2003.0,Toronto,ON,CA
+Linda Vrbova,masters,University of Toronto,2001.0,2003.0,Toronto,ON,CA,phd,University of British Columbia,2006.0,2013.0,Vancouver,BC,CA
+Kris Guenette,bachelors,University of Alberta,2008.0,2013.0,Edmonton,AB,CA,masters,University of Alberta,2015.0,2017.0,Edmonton,AB,CA
+Elena Favaro,bachelors,University of Western Ontario,2007.0,2011.0,London,Ontario,CA,masters,Queen's University,2011.0,2013.0,Kingston,Ontario,CA
+Brigitte Bacroix,masters,McGill University Faculty of Engineering,1979.0,1981.0,Montreal,QC,CA,phd,McGill University Faculty of Engineering,1982.0,1986.0,Montreal,QC,CA
+Rachel F. Stapleton,bachelors,University of Guelph,2000.0,2004.0,Guelph,ON,CA,masters,University of Toronto,2007.0,2008.0,Toronto,ON,CA
+Andrew Pawlowski,bachelors,University of Guelph,2006.0,2010.0,Guelph,ON,CA,phd,McMaster University,2011.0,2017.0,Hamilton,ON,CA
+Iman Baobeid,bachelors,University of British Columbia,2012.0,2015.0,Vancouver,BC,CA,masters,University of British Columbia,2015.0,2017.0,Vancouver,BC,CA
+Amie Kron,bachelors,McMaster University,2011.0,2015.0,Hamilton,ON,CA,masters,University of Toronto,2015.0,2017.0,Toronto,ON,CA
+Andrew Eungi Kim,bachelors,University of Alberta,1981.0,1987.0,Edmonton,AB,CA,masters,University of Toronto,1987.0,1988.0,Toronto,ON,CA
+Andrew Eungi Kim,masters,University of Toronto,1987.0,1988.0,Toronto,ON,CA,phd,University of Toronto,1988.0,1996.0,Toronto,ON,CA
+Chinten James Lim,bachelors,Simon Fraser University,1989.0,1995.0,Burnaby,BC,CA,phd,University of British Columbia,1997.0,2002.0,Vancouver,BC,CA
+Siân Echard,bachelors,Queen's University,1980.0,1984.0,Kingston,ON,CA,masters,University of Toronto,1984.0,1985.0,Toronto,ON,CA
+Siân Echard,masters,University of Toronto,1984.0,1985.0,Toronto,ON,CA,phd,University of Toronto,1985.0,1990.0,Toronto,ON,CA
+Blake Shaffer,bachelors,Queen's University,1995.0,2000.0,Kingston,Ontario,CA,phd,University of Calgary,2014.0,2018.0,Calgary,Alberta,CA
+François Martel,bachelors,École de technologie supérieure,2002.0,2006.0,Montreal,QC,CA,masters,Institut national de la recherche scientifique Centre Énergie Matériaux Télécommunications,2009.0,2011.0,Varennes,QC,CA
+Yingjie Chen,masters,Simon Fraser University,2002.0,2006.0,Burnaby,BC,CA,phd,Simon Fraser University,2007.0,2011.0,Burnaby,BC,CA
+Priya Kumar,bachelors,University of Ottawa,2003.0,2007.0,Ottawa,ON,CA,masters,University of Ottawa,2007.0,2009.0,Ottawa,ON,CA
+Daniel You,bachelors,Dalhousie University,2008.0,2012.0,Halifax,NS,CA,phd,Queen's University,2012.0,2016.0,Kingston,ON,CA
+Betty Y.S.  Kim,bachelors,McGill University,1994.0,1998.0,QC,QC,CA,phd,University of Toronto,2006.0,2009.0,Toronto,ON,CA
+Courtney Earl Matthews,bachelors,University of King's College,1995.0,1999.0,Halifax,NS,CA,masters,Dalhousie University,2008.0,2010.0,Halifax,NS,CA
+Naheda Sahtout,bachelors,University of Waterloo,2007.0,2010.0,Waterloo,Ontario,CA,masters,University of Guelph,2011.0,2013.0,Guelph,Ontario,CA
+David C.S. Roberts,bachelors,University of Victoria,1969.0,1973.0,Victoria,BC,CA,phd,University of British Columbia,1973.0,1978.0,Vancouver,BC,CA
+Tessa Vernstrom,masters,University of British Columbia,2009.0,2011.0,Vancouver,BC,CA,phd,University of British Columbia,2011.0,2015.0,Vancouver,BC,CA
+Trevor Day,bachelors,University of Calgary,1995.0,2000.0,Calgary,Alberta,CA,phd,University of Calgary Faculty of Medicine,2002.0,2007.0,Calgary,AB,CA
+Michael Gray,bachelors,University of Alberta,1960.0,1964.0,Edmonton,AB,CA,phd,University of Alberta,1965.0,1968.0,Edmonton,AB,CA
+Jean-Luc Martel,bachelors,École de technologie supérieure,2009.0,2013.0,Montreal,QC,CA,phd,École de technologie supérieure,2014.0,2019.0,Montreal,QC,CA
+Marco Marra,bachelors,Simon Fraser University,1984.0,1989.0,Burnaby,BC,CA,phd,Simon Fraser University,1989.0,1994.0,Burnaby,BC,CA
+Alex M Chubaty,bachelors,University of Calgary,2001.0,2005.0,Calgary,AB,CA,phd,Simon Fraser University,2005.0,2013.0,Burnaby,BC,CA
+Egan Chernoff,bachelors,Thompson Rivers University,1995.0,1999.0,Kamloops,BC,CA,phd,Simon Fraser University,2005.0,2009.0,Burnaby,BC,CA
+Reg Watson,bachelors,University of Manitoba,1971.0,1975.0,Winnipeg,MB,CA,masters,University of Manitoba,1975.0,1977.0,Winnipeg,MB,CA
+Amro Mohammad,bachelors,Western University,2006.0,2010.0,London,ON,CA,masters,Western University,2010.0,2012.0,London,ON,CA
+Serene Wohlgemuth,bachelors,University of Alberta,1996.0,2000.0,Edmonton,AB,CA,phd,University of Alberta,2000.0,2007.0,Edmonton,AB,CA
+Alexander Weber,bachelors,University of Toronto,2003.0,2007.0,Toronto,ON,CA,masters,University of Toronto,2007.0,2009.0,Toronto,ON,CA
+Alexander Weber,masters,University of Toronto,2007.0,2009.0,Toronto,ON,CA,phd,McMaster University,2013.0,2017.0,Hamilton,ON,CA
+Thiviya,bachelors,University of Waterloo,2008.0,2013.0,Waterloo,ON,CA,masters,Wilfrid Laurier University,2014.0,2017.0,Waterloo,ON,CA
+Raisa Gul,bachelors,McMaster University,1987.0,1990.0,Hamilton,ON,CA,phd,University of Alb,2003.0,2007.0,Edmonton,Alberta,CA
+Christopher Orcutt,bachelors,McGill University,2013.0,2017.0,Montreal,QC,CA,masters,McGill University,2017.0,2019.0,Montreal,QC,CA
+Natasha Haskey,bachelors,University of Saskatchewan,1994.0,1998.0,Saskatoon,SK,CA,masters,University of Saskatchewan,2005.0,2007.0,Saskatoon,SK,CA
+Peggy Chi,bachelors,Ryerson University,2002.0,2006.0,Toronto,ON,CA,masters,University of Toronto,2009.0,2012.0,Toronto,ON,CA
+Aman Verma,bachelors,Queen's University,1998.0,2003.0,Kingston,ON,CA,masters,Dalhousie University,2004.0,2005.0,Halifax,NS,CA
+Aman Verma,masters,Dalhousie University,2004.0,2005.0,Halifax,NS,CA,phd,McGill University,2008.0,2015.0,Montreal,QC,CA
+MOHAMAD BADR,masters,University of Saskatchewan College of Engineering,1970.0,1971.0,Saskatoon,SK,CA,phd,University of Saskatchewan,1971.0,1974.0,Saskatoon,SK,CA
+Ian M MacDonald,bachelors,McGill University,1968.0,1972.0,Montreal,QC,CA,masters,McGill University,1972.0,1974.0,Montreal,QC,CA
+Janice Strap,bachelors,University of Alberta,1985.0,1990.0,Edmonton,AB,CA,masters,University of Alberta,1991.0,1993.0,Edmonton,AB,CA
+Janice Strap,masters,University of Alberta,1991.0,1993.0,Edmonton,AB,CA,phd,University of Alberta,1993.0,2000.0,Edmonton,AB,CA
+John Cleary,bachelors,University of Guelph,1992.0,1996.0,Guelph,Ontaraio,CA,phd,University of Toronto,2000.0,2010.0,Toronto,Ontario,CA
+Umar Iqbal,masters,Royal Military College of Canada,2006.0,2008.0,Kingston,ON,CA,phd,Queen’s University,2008.0,2012.0,Kingston,Ontario,CA
+Samaa Alrushaid,masters,University of Manitoba,2010.0,2014.0,Winnipeg,MB,CA,phd,University of Manitoba,2015.0,2018.0,Winnipeg,MB,CA
+Janice Liedl,masters,University of Toronto,1985.0,1986.0,Toronto,ON,CA,phd,University of Toronto,1986.0,1991.0,Toronto,ON,CA
+Julie Young,masters,Ryerson University,2004.0,2005.0,Toronto,ON,CA,phd,York University,2006.0,2012.0,Toronto,ON,CA
+Sébastien Lavoie,bachelors,Universite Laval,2009.0,2012.0,Quebec,QC,CA,masters,Universite Laval,2012.0,2014.0,Quebec,QC,CA
+Mita Williams,bachelors,McMaster University,1990.0,1994.0,Hamilton,ON,CA,masters,McGill University,1994.0,1996.0,Montreal,QC,CA
+Evan Formosa,bachelors,University of Western Ontario,2011.0,2015.0,London,Ontario,CA,masters,University of Western Ontario,2015.0,2017.0,London,Ontario,CA
+Jason Perepelkin,bachelors,University of Saskatchewan,1996.0,2001.0,Saskatoon,SK,CA,masters,University of Saskatchewan,2003.0,2005.0,Saskatoon,SK,CA
+Jason Perepelkin,masters,University of Saskatchewan,2003.0,2005.0,Saskatoon,SK,CA,phd,University of Saskatchewan,2005.0,2008.0,Saskatoon,SK,CA
+Jacqueline Rice,bachelors,University of Victoria,1989.0,1993.0,Victoria,BC,CA,masters,University of Victoria,1993.0,1995.0,Victoria,BC,CA
+Jacqueline Rice,masters,University of Victoria,1993.0,1995.0,Victoria,BC,CA,phd,University of Victoria,1998.0,2003.0,Victoria,BC,CA
+David Swartz,bachelors,Concordia University,1992.0,1997.0,Montreal,QC,CA,masters,University of Toronto,2001.0,2003.0,Toronto,ON,CA
+Michael Glueck,masters,University of Toronto,2011.0,2012.0,Toronto,ON,CA,phd,University of Toronto,2013.0,2017.0,Toronto,ON,CA
+Les Moor,bachelors,University of Manitoba,1983.0,1989.0,Winnipeg,MB,CA,masters,University of Toronto,1990.0,1992.0,Toronto,ON,CA
+Eftichios Sartzetakis,masters,University of Saskatchewan,1986.0,1988.0,Saskatoon,SK,CA,phd,Carleton University,1988.0,1993.0,Ottawa,ON,CA
+David Jhave  JOHNSTON,bachelors,Concordia University,2001.0,2004.0,Montreal,QC,CA,masters,Simon Fraser University,2004.0,2007.0,Burnaby,BC,CA
+David Jhave  JOHNSTON,masters,Simon Fraser University,2004.0,2007.0,Burnaby,BC,CA,phd,Concordia University,2007.0,2011.0,Montreal,QC,CA
+M. Cathryn Ryan,masters,University of Waterloo,1985.0,1987.0,Waterloo,ON,CA,phd,University of Waterloo,1993.0,1997.0,Waterloo,ON,CA
+Neal Callaghan,bachelors,Mount Allison University,2010.0,2014.0,Sackville,New Brunswick,CA,masters,Mount Allison University,2014.0,2016.0,Sackville,New Brunswick,CA
+Kerry Macdonald,bachelors,Trent University,1993.0,1997.0,Peterborough,Ontario,CA,masters,Western University,2004.0,2005.0,London,Ontario,CA
+Kelly McPhee,bachelors,University of British Columbia,2005.0,2009.0,Vancouver,BC,CA,masters,University of British Columbia,2009.0,2012.0,Vancouver,BC,CA
+Kelly McPhee,masters,University of British Columbia,2009.0,2012.0,Vancouver,BC,CA,phd,University of Alberta,2012.0,2018.0,Edmonton,AB,CA
+Nathan Dawthorne,bachelors,Western University,2008.0,2013.0,London,ON,CA,phd,Western University,2013.0,2018.0,London,ON,CA
+David MacLean,bachelors,University of Toronto,2000.0,2005.0,Toronto,ON,CA,phd,McGill University,2005.0,2011.0,Montreal,QC,CA
+André St-Hilaire,bachelors,Royal Roads Military College,1983.0,1986.0,Victoria,BC,CA,phd,INRS Eau Terre et Environnement,1995.0,2000.0,Quebec,QC,CA
+Jonas Eriksson,bachelors,Trent University,2004.0,2008.0,Peterborough,ON,CA,masters,Trent University,2008.0,2011.0,Peterborough,ON,CA
+Michael Houle,bachelors,McGill University,1980.0,1984.0,Montreal,QC,CA,phd,McGill University,1984.0,1989.0,Montreal,QC,CA
+Jason Bernard,bachelors,Bishop's University,1991.0,1995.0,Sherbrooke,QC,CA,masters,Athabasca University,2012.0,2016.0,Athabasca,AB,CA
+James Stewart,bachelors,McGill University,2012.0,2016.0,Montreal,Quebec,CA,masters,McGill University,2016.0,2019.0,Montreal,Quebec,CA
+Janice Kung,bachelors,University of Alberta,2002.0,2006.0,Edmonton,AB,CA,masters,University of Alberta,2010.0,2013.0,Edmonton,AB,CA
+Philippe Lucas-Picher,bachelors,Université du Québec à Montréal,1997.0,2000.0,Montréal,QC,CA,masters,Université du Québec à Montréal,2000.0,2002.0,Montréal,QC,CA
+Philippe Lucas-Picher,masters,Université du Québec à Montréal,2000.0,2002.0,Montréal,QC,CA,phd,Université du Québec à Montréal,2003.0,2007.0,Montréal,QC,CA
+Paul Moorehead,bachelors,University of British Columbia,1987.0,1991.0,Vancouver,British Columbia,CA,masters,Memorial University of Newfoundland,2005.0,2013.0,Saint John's,NL,CA
+MA Michell-Robinson,bachelors,McGill University,2008.0,2012.0,Montreal,QC,CA,masters,McGill University,2013.0,2015.0,Montreal,QC,CA
+David Marchant,bachelors,University of Western Ontario,2003.0,2009.0,London,Ontario,CA,phd,University of British Columbia,2009.0,2015.0,Vancouver,BC,CA
+Heather Battles,masters,McMaster University,2006.0,2007.0,Hamilton,ON,CA,phd,McMaster University,2007.0,2013.0,Hamilton,Ontario,CA
+John Austin,bachelors,University of Windsor Faculty of Science,1977.0,1981.0,Windsor,ON,CA,masters,University of Windsor Faculty of Science,1981.0,1984.0,Windsor,ON,CA
+John Austin,masters,University of Windsor Faculty of Science,1981.0,1984.0,Windsor,ON,CA,phd,University of Western Ontario Faculty of Graduate Studies,1984.0,1989.0,London,ON,CA
+Septimiu Salcudean,bachelors,McGill University,1975.0,1979.0,QC,QC,CA,masters,McGill University,1979.0,1981.0,QC,QC,CA
+Leigha Comer,bachelors,York University,2010.0,2014.0,Toronto,ON,CA,masters,York University,2014.0,2016.0,Toronto,Ontario,CA
+Christopher Kennedy,bachelors,University of Toronto,2012.0,2016.0,Toronto,ON,CA,masters,University of Toronto,2016.0,2017.0,Toronto,ON,CA
+Malcolm S.W. Hodgskiss,bachelors,McGill University,2011.0,2015.0,Montreal,QC,CA,masters,McGill University,2015.0,2016.0,Montreal,QC,CA
+Nicholas Lin,bachelors,McGill University,2011.0,2016.0,Montreal,QC,CA,masters,McGill University,2016.0,2017.0,Montreal,QC,CA
+Rozhen Mohammed-Amin,masters,University of Calgary,2007.0,2010.0,Calgary,AB,CA,phd,University of Calgary,2010.0,2015.0,Calgary,AB,CA
+Arianne Boileau,bachelors,Université Laval,2007.0,2010.0,Quebec,QC,CA,masters,Trent University,2010.0,2013.0,Peterborough,ON,CA
+Alexander Tran,bachelors,McMaster University,2007.0,2011.0,Hamilton,ON,CA,masters,McMaster University,2011.0,2013.0,Hamilton,ON,CA
+Kandace Bogaert,bachelors,University of Toronto,2006.0,2010.0,Scarborough,ON,CA,masters,McMaster University,2010.0,2011.0,Hamilton,Ontario,CA
+Kandace Bogaert,masters,McMaster University,2010.0,2011.0,Hamilton,Ontario,CA,phd,McMaster University,2011.0,2015.0,Hamilton,ON,CA
+Lucas Khodaei,bachelors,University of Toronto,2012.0,2015.0,Toronto,ON,CA,masters,Wilfrid Laurier University,2017.0,2019.0,Waterloo,ON,CA
+Paquet ER,bachelors,Universite de Sherbrooke,1999.0,2003.0,Sherbrooke,QC,CA,masters,Universite de Montreal,2003.0,2005.0,Montreal,QC,CA
+Paquet ER,masters,Universite de Montreal,2003.0,2005.0,Montreal,QC,CA,phd,McGill University,2011.0,2015.0,Montreal,QC,CA
+Andrew S. Mikhail,bachelors,Queen's University,2000.0,2004.0,Kingston,ON,CA,masters,McMaster University,2004.0,2006.0,Hamilton,ON,CA
+Andrew S. Mikhail,masters,McMaster University,2004.0,2006.0,Hamilton,ON,CA,phd,University of Toronto,2007.0,2013.0,Toronto,ON,CA
+Janine Jongbloed,bachelors,Simon Fraser University,2002.0,2007.0,Burnaby,BC,CA,masters,University of British Columbia,2009.0,2012.0,Vancouver,BC,CA
+Hai Wang,masters,McMaster University,2002.0,2004.0,Hamilton,ON,CA,phd,University of Toronto,2004.0,2008.0,Toronto,ON,CA
+Abdulkarim Alhetheel,masters,University of Ottawa,2003.0,2005.0,Ottawa,ON,CA,phd,University of Ottawa,2005.0,2010.0,Ottawa,ON,CA
+Marie T. Killeen,masters,York University,1981.0,1983.0,Toronto,ON,CA,phd,University of Toronto,1984.0,1993.0,Toronto,ON,CA
+Charles N. de Leeuw,bachelors,University of Alberta,2002.0,2006.0,Edmonton,Alberta,CA,phd,University of British Columbia,2006.0,2013.0,Vancouver,British Columbia,CA
+Léa Séguin,bachelors,University of Ottawa,2006.0,2010.0,Ottawa,ON,CA,masters,University of Guelph,2011.0,2013.0,Guelph,ON,CA
+Madeline Laberge,bachelors,University of Northern British Columbia,2003.0,2007.0,Prince George,BC,CA,masters,Royal Roads University,2014.0,2018.0,Victoria,BC,CA
+Eileen Clancy,bachelors,University of Guelph,1999.0,2003.0,Guelph,Ontario,CA,phd,Dalhousie University,2003.0,2009.0,Halifax,Nova Scotia,CA
+Kyle Vogan,bachelors,McGill University Faculty of Science,1989.0,1992.0,Montreal,QC,CA,phd,McGill University,1992.0,1997.0,Montreal,QC,CA
+Erik Spek,bachelors,University of Waterloo,1969.0,1974.0,Waterloo,ON,CA,masters,University of Waterloo,1974.0,1976.0,Waterloo,ON,CA
+Scott Taylor,bachelors,University of Guelph,2002.0,2006.0,Guelph,ON,CA,phd,Queen's University,2006.0,2011.0,Kingston,ON,CA
+Gillian E. Hanley,bachelors,Dalhousie University,2000.0,2004.0,Halifax,NS,CA,masters,McMaster University,2004.0,2005.0,Hamilton,ON,CA
+Gillian E. Hanley,masters,McMaster University,2004.0,2005.0,Hamilton,ON,CA,phd,University of British Columbia,2006.0,2011.0,Vancouver,BC,CA
+Thomas Hervé Mboa Nkoudou,masters,Université Laval,2011.0,2014.0,Quebec,QC,CA,phd,Université Laval,2015.0,2019.0,Quebec,QC,CA
+Morgan MacDonald,bachelors,Brock,2001.0,2005.0,St. Catharines,Ontario,CA,masters,Queen's University,2006.0,2008.0,Kingston,ON,CA
+Morgan MacDonald,masters,Queen's University,2006.0,2008.0,Kingston,ON,CA,phd,University of Guelph,2009.0,2013.0,Guelph,ON,CA
+Hilary Duke,bachelors,University of Toronto,2006.0,2010.0,Toronto,ON,CA,masters,University of Toronto,2010.0,2012.0,Toronto,ON,CA
+Caroline Dionne,bachelors,Université Laval,1992.0,1996.0,Quebec,QC,CA,masters,McGill University,1997.0,2000.0,Montreal,QC,CA
+Tony Vyn,masters,University of Guelph,1976.0,1978.0,Guelph,ON,CA,phd,University of Guelph,1982.0,1987.0,Guelph,ON,CA
+Andrew MacKenzie,bachelors,Carleton University,1995.0,1999.0,Ottawa,ON,CA,masters,Carleton University,1999.0,2001.0,Ottawa,ON,CA
+Andrew MacKenzie,masters,Carleton University,1999.0,2001.0,Ottawa,ON,CA,phd,Carleton University,2005.0,2013.0,Ottawa,ON,CA
+Sharon Kirkpatrick,masters,University of Guelph,1996.0,2000.0,Guelph,ON,CA,phd,University of Toronto,2003.0,2009.0,Toronto,ON,CA
+Vessela Vassileva,bachelors,University of Toronto,1995.0,1999.0,Toronto,ON,CA,masters,University of Toronto,2000.0,2002.0,Toronto,ON,CA
+Vessela Vassileva,masters,University of Toronto,2000.0,2002.0,Toronto,ON,CA,phd,University of Toronto,2003.0,2008.0,Toronto,ON,CA
+Daniel F. Eberl,bachelors,University of Alberta,1979.0,1983.0,Edmonton,AB,CA,masters,University of Guelph,1984.0,1987.0,Guelph,ON,CA
+Daniel F. Eberl,masters,University of Guelph,1984.0,1987.0,Guelph,ON,CA,phd,University of Guelph,1987.0,1991.0,Guelph,ON,CA
+Catherine Duchesneau,bachelors,Université Laval,2006.0,2009.0,Quebec,QC,CA,masters,Institut national de la recherche scientifique,2009.0,2011.0,Montréal,QC,CA
+Jocelyn A. Srigley,bachelors,University of Waterloo,1997.0,2002.0,Waterloo,ON,CA,masters,University of Toronto,2012.0,2014.0,Toronto,ON,CA
+Chris Grant,bachelors,Wilfrid Laurier University,2008.0,2012.0,Waterloo,ON,CA,phd,Canadian Memorial Chiropractic College,2012.0,2016.0,Toronto,ON,CA
+Michal Dabros,bachelors,University of Alberta,1995.0,2000.0,Edmonton,AB,CA,masters,Polytechnique Montréal,2000.0,2002.0,Montréal,QC,CA
+Kyle Briggs,masters,University of Ottawa,2008.0,2013.0,Ottawa,ON,CA,phd,University of Ottawa,2013.0,2018.0,Ottawa,ON,CA
+Raed Hashaikeh,masters,McGill University,1999.0,2000.0,Montreal,QC,CA,phd,McGill University,2001.0,2005.0,Montreal,QC,CA
+Tae Hun Kim,bachelors,University of Toronto,2006.0,2011.0,Toronto,ON,CA,phd,University of Toronto - Mississauga,2011.0,2016.0,Mississauga,ON,CA
+Kaspar Podgorski,bachelors,University of Toronto,2004.0,2008.0,Toronto,ON,CA,phd,University of British Columbia,2010.0,2015.0,Vancouver,British Columbia,CA
+Yingjie Wu,bachelors,University of Alberta,2011.0,2015.0,Edmonton,AB,CA,masters,McGill University,2016.0,2017.0,Montreal,QC,CA
+Bruno Therrien,bachelors,University of Montreal,1988.0,1992.0,Montreal,Quebec,CA,masters,University of Montreal,1993.0,1993.0,Montreal,Quebec,CA
+David Pelster,bachelors,University of Alberta,1997.0,2000.0,Edmonton,Alberta,CA,phd,Lakehead University,2005.0,2009.0,Thunder Bay,Ontario,CA
+Josip Lesica,masters,Queen's University,2009.0,2010.0,Kingston,ON,CA,phd,McMaster University,2010.0,2017.0,Hamilton,ON,CA
+Philippe Dauphin Ducharme,bachelors,Université de Montréal,2008.0,2011.0,Montreal,QC,CA,phd,McGill University,2011.0,2015.0,QC,QC,CA
+Frederick Dobie,bachelors,University of Victoria,1999.0,2004.0,Victoria,BC,CA,phd,University of British Columbia,2004.0,2012.0,Vancouver,BC,CA
+Talar Parajian,bachelors,McGill University,2004.0,2008.0,Montreal,QC,CA,masters,University of Toronto,2009.0,2010.0,Toronto,ON,CA
+Junyan Ding,bachelors,University of British Columbia,2003.0,2007.0,Vancouver,BC,CA,masters,University of Calgary,2011.0,2012.0,Calgary,AB,CA
+Junyan Ding,masters,University of Calgary,2011.0,2012.0,Calgary,AB,CA,phd,University of Calgary,2012.0,2018.0,Calgary,AB,CA
+stephanie moore,bachelors,Queen's University,2001.0,2005.0,Kingston,ON,CA,masters,Dalhousie University,2005.0,2008.0,Halifax,NS,CA
+Dena McMartin,masters,University of Saskatchewan College of Engineering,1997.0,2000.0,Saskatoon,SK,CA,phd,University of Saskatchewan College of Engineering,2000.0,2003.0,Saskatoon,SK,CA
+Lynne Bowker,bachelors,University of Ottawa,1987.0,1991.0,Ottawa,ON,CA,masters,University of Ottawa,1991.0,1992.0,Ottawa,ON,CA
+Simon Coudé,bachelors,Université de Sherbrooke,2007.0,2010.0,Sherbrooke,QC,CA,masters,Université de Montréal,2011.0,2012.0,Montreal,QC,CA
+Simon Coudé,masters,Université de Montréal,2011.0,2012.0,Montreal,QC,CA,phd,Université de Montréal,2012.0,2018.0,Montreal,QC,CA
+Kyle Sue,bachelors,Simon Fraser University,2004.0,2008.0,Burnaby,British Columbia,CA,masters,McMaster University,2014.0,2017.0,Hamilton,Ontario,CA
+Koji Miwa,bachelors,University of Alberta,2004.0,2007.0,Edmonton,AB,CA,phd,University of Alberta,2007.0,2013.0,Edmonton,Alberta,CA
+Mian Alauddin,masters,Brock University,1980.0,1982.0,Saint Catharines,ON,CA,phd,University of Manitoba,1983.0,1987.0,Winnipeg,MB,CA
+George Szatmari,bachelors,Concordia University,1978.0,1981.0,Montreal,QC,CA,phd,Université McGill,1981.0,1987.0,Montreal,QC,CA
+Aaron Beedle,bachelors,Queen's University,1994.0,1998.0,Kingston,ON,CA,phd,University of Calgary,1998.0,2003.0,Calgary,AB,CA
+Paul Kongkham,bachelors,University of Toronto,1994.0,1997.0,Toronto,ON,CA,phd,University of Toronto,2004.0,2012.0,Toronto,ON,CA
+Kshirasagar Naik,masters,University of Waterloo,1986.0,1988.0,Waterloo,ON,CA,phd,Concordia University,1988.0,1992.0,Montreal,QC,CA
+Donghoon M. Lee,bachelors,University of Toronto,2005.0,2009.0,Toronto,ON,CA,phd,University of Toronto,2009.0,2015.0,Toronto,ON,CA
+Rachael L Neal,bachelors,University of Waterloo,2006.0,2010.0,Waterloo,ON,CA,masters,Concordia University,2012.0,2014.0,Montreal,QC,CA
+Racha Al-Khoury,bachelors,McGill University,2001.0,2005.0,QC,QC,CA,masters,University of Montreal,2007.0,2009.0,Montreal,Quebec,CA
+David H. Michels,bachelors,Tyndale University College and Seminary,1985.0,1990.0,Toronto,ON,CA,masters,Dalhousie University,1998.0,2001.0,Halifax,NS,CA
+David H. Michels,masters,Dalhousie University,1998.0,2001.0,Halifax,NS,CA,phd,Dalhousie University,2007.0,2014.0,Halifax,NS,CA
+Alexandre S Gagnon,bachelors,Concordia University,1995.0,1998.0,Montreal,QC,CA,masters,University of Alberta,1998.0,2000.0,Edmonton,AB,CA
+Alexandre S Gagnon,masters,University of Alberta,1998.0,2000.0,Edmonton,AB,CA,phd,University of Toronto,2000.0,2004.0,Toronto,ON,CA
+Sarah Mahon,bachelors,University of British Columbia - Okanagan,2007.0,2011.0,Kelowna,BC,CA,masters,University of British Columia,2014.0,2016.0,Vancouver,BC,CA
+Laurent De Vriendt,bachelors,Université Laval,2009.0,2012.0,Quebec,QC,CA,masters,Université Laval,2012.0,2015.0,Quebec,QC,CA
+Yvan Leblanc,bachelors,Université Laval,1977.0,1980.0,Quebec,QC,CA,masters,University of Alberta,1980.0,1982.0,Edmonton,AB,CA
+Yvan Leblanc,masters,University of Alberta,1980.0,1982.0,Edmonton,AB,CA,phd,University of Alberta,1982.0,1986.0,Edmonton,AB,CA
+Wejdan Farhan,masters,Laurentian University,2012.0,2014.0,Sudbury,ON,CA,phd,Laurentian University,2014.0,2018.0,Sudbury,ON,CA
+Timothy W. Corson,bachelors,University of Toronto,1995.0,1999.0,Toronto,ON,CA,masters,University of Toronto,1999.0,2002.0,Toronto,ON,CA
+Timothy W. Corson,masters,University of Toronto,1999.0,2002.0,Toronto,ON,CA,phd,University of Toronto,2002.0,2007.0,Toronto,ON,CA
+Brenda Mercer,bachelors,University of New Brunswick,1985.0,1990.0,Fredericton,NB,CA,masters,University of New Brunswick - Fredericton Campus,2008.0,2008.0,Fredericton,NB,CA
+Todd Van Mechelen,bachelors,University of Alberta,2009.0,2014.0,Edmonton,AB,CA,masters,University of Toronto,2014.0,2015.0,Toronto,ON,CA
+Kyle Robert Harrison,bachelors,Brock University,2008.0,2012.0,Saint Catharines,ON,CA,masters,Brock University,2012.0,2014.0,Saint Catharines,ON,CA
+Shelley Sweeney,bachelors,University of British Columbia,1977.0,1981.0,Vancouver,BC,CA,masters,University of British Columbia,1981.0,1985.0,Vancouver,BC,CA
+Dean G. Thompson,bachelors,Wilfrid Laurier University,1976.0,1980.0,Waterloo,ON,CA,masters,University of Guelph,1980.0,1983.0,Guelph,ON,CA
+Dean G. Thompson,masters,University of Guelph,1980.0,1983.0,Guelph,ON,CA,phd,University of Guelph,1986.0,1992.0,Guelph,ON,CA
+Cameron Tropea,bachelors,University of Toronto,1972.0,1976.0,Toronto,ON,CA,masters,University of Toronto,1976.0,1977.0,Toronto,ON,CA
+Michael Chen,bachelors,University of Toronto,2007.0,2012.0,Toronto,ON,CA,masters,University of Toronto,2012.0,2015.0,Toronto,ON,CA
+Charlie Goldsmith,bachelors,University of Manitoba,1957.0,1961.0,Winnipeg,MB,CA,masters,University of Manitoba,1961.0,1963.0,Winnipeg,MB,CA
+Thirstan Falconer,bachelors,University of Waterloo,2007.0,2010.0,Waterloo,Ontario,CA,masters,University of Waterloo,2010.0,2012.0,Waterloo,ON,CA
+Thirstan Falconer,masters,University of Waterloo,2010.0,2012.0,Waterloo,ON,CA,phd,University of Victoria,2014.0,2017.0,Victoria,BC,CA
+Holly Howe,bachelors,McMaster University,2010.0,2014.0,Hamilton,ON,CA,masters,University of Toronto,2014.0,2016.0,Toronto,ON,CA
+Tanya MacLeod,bachelors,Acadia University,1999.0,2003.0,Wolfville,Nova Scotia,CA,masters,University of Guelph,2003.0,2005.0,Guelph,Ontario,CA
+Robert N Collins,bachelors,Memorial University of Newfoundland,2006.0,2011.0,Saint John's,NL,CA,masters,Memorial University of Newfoundland,2011.0,2013.0,Saint John's,NL,CA
+Robert N Collins,masters,Memorial University of Newfoundland,2011.0,2013.0,Saint John's,NL,CA,phd,McMaster University,2014.0,2018.0,Hamilton,ON,CA
+Reza Mirsalari,masters,Ecole Polytechnique de Montréal,2011.0,2013.0,Montreal,QC,CA,phd,Ecole Polytechnique de Montréal,2013.0,2017.0,Montreal,QC,CA
+YILONG LIU,bachelors,Queen's University,2012.0,2016.0,Kingston,ON,CA,masters,OCAD University,2016.0,2018.0,Toronto,ON,CA
+Andrew Oakes,bachelors,Concordia University,1971.0,1975.0,Montreal,Quebec,CA,masters,University of Toronto,1980.0,1981.0,Toronto,Ontario,CA
+Louis Haeberlé,bachelors,Université Laval,2013.0,2016.0,Québec City,QC,CA,masters,Université de Sherbrooke,2016.0,2019.0,Sherbrooke,QC,CA
+You Jung Seo,bachelors,McGill University,2009.0,2013.0,Montreal,Quebec,CA,masters,McGill University,2013.0,2015.0,Montreal,QC,CA
+Marcos Barros,masters,HEC Montréal,1998.0,2001.0,Montreal,Quebec,CA,phd,HEC Montréal,2004.0,2012.0,Montreal,Quebec,CA
+Brent Derry,bachelors,Carleton University,1985.0,1989.0,Ottawa,ON,CA,masters,McMaster University,1989.0,1991.0,Hamilton,ON,CA
+Daniel Fuller,bachelors,University of Saskatchewan,2001.0,2006.0,Saskatoon,SK,CA,masters,University of Saskatchewan,2006.0,2008.0,Saskatoon,SK,CA
+Daniel Fuller,masters,University of Saskatchewan,2006.0,2008.0,Saskatoon,SK,CA,phd,Université de Montréal,2008.0,2012.0,Montreal,Quebec,CA
+Chad Staddon,bachelors,Simon Fraser University,1982.0,1988.0,Burnaby,BC,CA,masters,University of British Columbia Faculty of Arts,1988.0,1991.0,Vancouver,BC,CA
+Kevin D'Angelo,bachelors,McMaster University,2005.0,2009.0,Hamilton,ON,CA,phd,Canadian Memorial Chiropractic College,2009.0,2013.0,Toronto,ON,CA
+Lisa Calder,bachelors,Queen's University,1992.0,1995.0,Kingston,ON,CA,masters,University of Ottawa,2004.0,2007.0,Ottawa,ON,CA
+Jibran Y Khokhar,bachelors,Queen's University,2002.0,2006.0,Kingston,ON,CA,phd,University of Toronto,2006.0,2012.0,Toronto,ON,CA
+Robert Ferdman,bachelors,Trent University,1995.0,2000.0,Peterborough,ON,CA,masters,University of British Columbia,2000.0,2002.0,Vancouver,BC,CA
+Robert Ferdman,masters,University of British Columbia,2000.0,2002.0,Vancouver,BC,CA,phd,University of British Columbia,2003.0,2008.0,Vancouver,BC,CA
+Stephanie Shames,masters,University of Western Ontario,2002.0,2006.0,London,Ontario,CA,phd,University of British Columbia,2006.0,2011.0,Vancouver,BC,CA
+Andreas Warburton,bachelors,University of Victoria,1986.0,1991.0,Victoria,BC,CA,masters,University of Toronto,1991.0,1992.0,Toronto,ON,CA
+Andreas Warburton,masters,University of Toronto,1991.0,1992.0,Toronto,ON,CA,phd,University of Toronto,1993.0,1997.0,Toronto,ON,CA
+John L. Brubacher,masters,University of Waterloo,1997.0,1999.0,Waterloo,Ontario,CA,phd,University of Manitoba,2002.0,2010.0,Winnipeg,Manitoba,CA
+Khaled D. Alotaibi,masters,University of Guelph,2005.0,2008.0,Guelph,ON,CA,phd,University of Saskatchewan,2008.0,2014.0,Saskatoon,SK,CA
+Alisa R. Paterson,bachelors,Simon Fraser University,2006.0,2011.0,Burnaby,British Columbia,CA,phd,Simon Fraser University,2011.0,2017.0,Burnaby,British Columbia,CA
+Chris Lonsdale,bachelors,University of Victoria,1993.0,1998.0,Victoria,BC,CA,masters,University of Victoria,1998.0,2001.0,Victoria,BC,CA
+Dominic Boisvert,bachelors,Université de Sherbrooke,1992.0,1995.0,Sherbrooke,QC,CA,masters,Université de Sherbrooke,1995.0,1998.0,Sherbrooke,QC,CA
+Michael É. Laurentius,bachelors,York University,2009.0,2012.0,Toronto,ON,CA,masters,York University,2015.0,2016.0,Toronto,ON,CA
+Danielle Tessaro,bachelors,University of Western Ontario Faculty of Social Science,2007.0,2011.0,London,ON,CA,masters,University of Toronto,2011.0,2012.0,Toronto,ON,CA
+Jennifer Robblee,bachelors,Dalhousie University,2002.0,2006.0,Halifax,NS,CA,masters,University of Toronto,2015.0,2016.0,Toronto,ON,CA
+Janet Rennick,masters,University of Toronto,1985.0,1987.0,Toronto,ON,CA,phd,McGill University,1991.0,1999.0,Montreal,QC,CA
+Mary Coughlin,bachelors,Queen's University,2011.0,2015.0,Kingston,ON,CA,masters,Queen's University,2015.0,2017.0,Kingston,ON,CA
+Valérie Bercier,bachelors,Université du Québec à Montréal,2006.0,2009.0,QC,QC,CA,masters,Université de Montréal,2009.0,2011.0,Montreal,QC,CA
+Audrey Elizabeth Brennan,bachelors,Concordia University,2011.0,2015.0,Montreal,QC,CA,masters,Université Laval,2016.0,2018.0,Quebec,QC,CA
+Andrew Flewelling,bachelors,University of New Brunswick,2006.0,2010.0,Saint John,New Brunswick,CA,masters,University of New Brunswick,2010.0,2013.0,Saint John,New Brunswick,CA
+Andrew Flewelling,masters,University of New Brunswick,2010.0,2013.0,Saint John,New Brunswick,CA,phd,University of New Brunswick,2013.0,2018.0,Saint John,New Brunswick,CA
+Mackenzie Bromstad,bachelors,McGill University,2004.0,2008.0,Montreal,QC,CA,masters,Queen's University,2009.0,2011.0,Kingston,ON,CA
+Michael Ullyot,bachelors,McGill University,1996.0,1998.0,QC,QC,CA,phd,University of Toronto,1999.0,2005.0,Toronto,ON,CA
+David Quirt,bachelors,University of Toronto,1972.0,1976.0,Toronto,ON,CA,masters,University of Windsor,1976.0,1978.0,Windsor,ON,CA
+Victoria Edge,masters,University of Guelph,1991.0,1993.0,Guelph,ON,CA,phd,University of Guelph,2002.0,2006.0,Guelph,ON,CA
+Mathieu Leblond,bachelors,Université du Québec à Rimouski,2001.0,2004.0,Rimouski,QC,CA,masters,Université du Québec à Rimouski,2004.0,2007.0,Rimouski,QC,CA
+Mathieu Leblond,masters,Université du Québec à Rimouski,2004.0,2007.0,Rimouski,QC,CA,phd,Université du Québec à Montréal,2007.0,2013.0,Rimouski,QC,CA
+Ryan McLaughlin,bachelors,Mount Allison University,2000.0,2004.0,Sackville,NB,CA,masters,University of British Columbia,2004.0,2006.0,Vancouver,BC,CA
+Ryan McLaughlin,masters,University of British Columbia,2004.0,2006.0,Vancouver,BC,CA,phd,University of British Columbia,2007.0,2012.0,Vancouver,BC,CA
+Patrick Audet,bachelors,University of Ottawa,2001.0,2005.0,Ottawa,Ontario,CA,phd,University of Ottawa,2005.0,2010.0,Ottawa,ON,CA
+Biniam Kidane,bachelors,University of Toronto,2001.0,2005.0,Toronto,ON,CA,masters,McMaster University,2011.0,2012.0,Hamilton,ON,CA
+Jean-Christophe Lachance,bachelors,Université de Sherbrooke,2012.0,2015.0,Sherbrooke,QC,CA,masters,Université de Sherbrooke,2016.0,2018.0,Sherbrooke,QC,CA
+Danica Facca,bachelors,Western University,2012.0,2016.0,London,ON,CA,masters,Western University,2016.0,2017.0,London,ON,CA
+Myrian Grondin,bachelors,Université du Québec à Trois-Rivières,2000.0,2003.0,Trois-Rivieres,QC,CA,masters,Université de Montréal,2007.0,2009.0,Montreal,QC,CA
+Ju Eun Justina Lee,bachelors,University of Toronto,2007.0,2012.0,Toronto,ON,CA,masters,McMaster University,2012.0,2013.0,Hamilton,ON,CA
+Liam Turley,bachelors,Mount Royal University,2010.0,2015.0,Calgary,AB,CA,masters,Southern Alberta Institute of Technology,2016.0,2018.0,Calgary,AB,CA
+Colleen Barber,bachelors,University of Guelph,1982.0,1986.0,Guelph,Ontario,CA,masters,University of Manitoba,1988.0,1991.0,Winnipeg,MB,CA
+Colleen Barber,masters,University of Manitoba,1988.0,1991.0,Winnipeg,MB,CA,phd,Queen's University,1992.0,1997.0,Kingston,ON,CA
+Dean Fergusson,bachelors,McGill University,1988.0,1991.0,QC,QC,CA,phd,McGill University,1998.0,2003.0,QC,QC,CA
+Pedro Contreras,masters,University of Toronto,2000.0,2001.0,Toronto,ON,CA,phd,University of Toronto,2001.0,2006.0,Toronto,ON,CA
+Jean-François Pombert,bachelors,Universite Laval,1996.0,1999.0,Quebec,QC,CA,masters,Universite Laval,1999.0,2001.0,Quebec,QC,CA
+Jean-François Pombert,masters,Universite Laval,1999.0,2001.0,Quebec,QC,CA,phd,Universite Laval,2001.0,2007.0,Quebec,QC,CA
+Tyler Saumur,bachelors,Wilfrid Laurier University,2010.0,2014.0,Waterloo,ON,CA,masters,University of Toronto,2015.0,2017.0,Toronto,ON,CA
+Kate Shuttleworth,bachelors,University of Calgary,2008.0,2012.0,Calgary,AB,CA,masters,University of British Columbia,2015.0,2017.0,Vancouver,BC,CA
+Alexander Yitbarek,masters,University of Manitoba,2007.0,2009.0,Winnipeg,MB,CA,phd,University of Guelph,2014.0,2018.0,Guelph,ON,CA
+michael tessler,bachelors,University of Manitoba,1974.0,1977.0,Winnipeg,MB,CA,phd,University of Manitoba,1977.0,1981.0,Winnipeg,MB,CA
+Gregory Hoy,bachelors,University of Toronto,2010.0,2015.0,Toronto,ON,CA,masters,University of Toronto,2015.0,2017.0,Toronto,ON,CA
+Jiadong Ye,bachelors,University of British Columbia,2013.0,2016.0,Vancouver,BC,CA,masters,University of British Columbia,2016.0,2017.0,Vancouver,BC,CA
+Shawn French,bachelors,University of Guelph,2001.0,2005.0,Guelph,ON,CA,phd,University of Guelph,2006.0,2011.0,Guelph,ON,CA
+Louis Tremblay,masters,McGill University Faculty of Science,1988.0,1992.0,Montreal,QC,CA,phd,University of Guelph,1994.0,1998.0,Guelph,ON,CA
+Sally Armstrong,bachelors,University of Guelph,2007.0,2011.0,Guelph,ON,CA,masters,University of Toronto,2011.0,2013.0,Toronto,ON,CA
+Stephen M. Golant,bachelors,University of Toronto,1964.0,1968.0,Toronto,ON,CA,masters,University of Toronto,1968.0,1969.0,Toronto,ON,CA
+Ryan K Schott,bachelors,University of Toronto,2003.0,2008.0,Toronto,ON,CA,masters,University of Toronto,2008.0,2011.0,Toronto,ON,CA
+Ryan K Schott,masters,University of Toronto,2008.0,2011.0,Toronto,ON,CA,phd,University of Toronto,2011.0,2018.0,Toronto,ON,CA
+Lorien Nesbitt,bachelors,University of Toronto,2001.0,2006.0,Toronto,ON,CA,masters,University of Toronto,2006.0,2007.0,Toronto,ON,CA
+Lorien Nesbitt,masters,University of Toronto,2006.0,2007.0,Toronto,ON,CA,phd,University of British Columbia,2012.0,2017.0,Vancouver,BC,CA
+Stephen Snudden,bachelors,Carleton University,2004.0,2008.0,Ottawa,ON,CA,masters,Queen's University,2012.0,2013.0,Kingston,ON,CA
+Ashley Farrell,bachelors,University of Windsor,2003.0,2007.0,Windsor,ON,CA,masters,University of Western Ontario,2007.0,2009.0,London,Ontario,CA
+Courtney Hanna,bachelors,University of British Columbia,2001.0,2006.0,Vancouver,BC,CA,phd,University of British Columbia,2007.0,2013.0,Vancouver,BC,CA
+Kevin Solar,bachelors,University of Manitoba,2010.0,2015.0,Winnipeg,MB,CA,masters,University of Manitoba,2015.0,2017.0,Winnipeg,MB,CA
+Kyle Martin,bachelors,McGill University,2003.0,2006.0,Montreal,QC,CA,masters,University of Ottawa,2006.0,2008.0,Ottawa,ON,CA
+Maryam Shoaran,masters,University of Victoria Faculty of Engineering,2006.0,2007.0,Victoria,BC,CA,phd,University of Victoria Faculty of Engineering,2007.0,2011.0,Victoria,BC,CA
+Nancy Black,bachelors,University of Waterloo,1984.0,1989.0,Waterloo,ON,CA,masters,Dalhousie University,1991.0,1994.0,Halifax,NS,CA
+Nancy Black,masters,Dalhousie University,1991.0,1994.0,Halifax,NS,CA,phd,University of New Brunswick,1995.0,2001.0,Fredericton,NB,CA
+Anne-Marie Selzler,bachelors,University of Northern British Columbia,2004.0,2009.0,Prince George,BC,CA,masters,University of Alberta,2010.0,2013.0,Edmonton,AB,CA
+Ian J. Davidson,bachelors,Saint Thomas Univerisity,2007.0,2012.0,Fredericton,New Brunswick,CA,masters,York Univerisity,2013.0,2015.0,Toronto,Ontario,CA
+Graham Scott,bachelors,McMaster University Faculty of Science,1997.0,2002.0,Hamilton,ON,CA,masters,University of British Columbia Department of Zoology,2002.0,2004.0,Vancouver,BC,CA
+Graham Scott,masters,University of British Columbia Department of Zoology,2002.0,2004.0,Vancouver,BC,CA,phd,University of British Columbia Department of Zoology,2004.0,2009.0,Vancouver,BC,CA
+Devin Huyghebaert,masters,University of Saskatchewan,2010.0,2013.0,Saskatoon,SK,CA,phd,University of Saskatchewan,2013.0,2019.0,Saskatoon,SK,CA
+Frank Kschischang,bachelors,University of British Columbia,1980.0,1985.0,Vancouver,BC,CA,masters,University of Toronto,1985.0,1988.0,Toronto,ON,CA
+Alan Gibbs,bachelors,University of Calgary,1992.0,1996.0,Calgary,AB,CA,phd,University of Alberta,1996.0,2001.0,Edmonton,AB,CA
+Sarah Loboda,bachelors,Université du Québec à Rimouski,2004.0,2007.0,Rimouski,QC,CA,masters,McGill University Faculty of Agriculture and Environment,2010.0,2013.0,Sainte Anne de Bellevue,QC,CA
+Ric Procyshyn,bachelors,University of Manitoba College of Pharmacy,1979.0,1983.0,Winnipeg,MB,CA,masters,University of Manitoba Faculty of Graduate Studies,1987.0,1989.0,Winnipeg,MB,CA
+Ric Procyshyn,masters,University of Manitoba Faculty of Graduate Studies,1987.0,1989.0,Winnipeg,MB,CA,phd,University of British Columbia,1989.0,1994.0,Vancouver,BC,CA
+Hossam El-Sokkary,masters,Concordia University,2006.0,2007.0,Montreal,QC,CA,phd,Concordia University,2007.0,2012.0,Montreal,QC,CA
+Marianne Falardeau,bachelors,Université Laval,2009.0,2012.0,Quebec,QC,CA,masters,Université Laval,2012.0,2014.0,Quebec,QC,CA
+Ana F. Best,bachelors,McGill University,2007.0,2010.0,Montreal,QC,CA,phd,McGill University,2010.0,2015.0,Montreal,QC,CA
+Suzanne Yeager,masters,University of Toronto,1997.0,1998.0,Toronto,ON,CA,phd,University of Toronto,1998.0,2004.0,Toronto,ON,CA
+Thomas Lakeman,bachelors,University of Alberta,2000.0,2004.0,Edmonton,Alberta,CA,masters,Simon Fraser University,2004.0,2006.0,Burnaby,British Columbia,CA
+Thomas Lakeman,masters,Simon Fraser University,2004.0,2006.0,Burnaby,British Columbia,CA,phd,University of Alberta,2007.0,2012.0,Edmonton,Alberta,CA
+Neal Shahidi,bachelors,Simon Fraser University,2003.0,2008.0,Burnaby,BC,CA,phd,University of British Columbia,2009.0,2013.0,Vancouver,BC,CA
+Ellen Whitman,bachelors,Dalhousie University,2007.0,2011.0,Halifax,NS,CA,masters,Dalhousie University,2011.0,2013.0,Halifax,NS,CA
+Ronny  Priefer,bachelors,University of Northern British Columbia,1994.0,1998.0,Prince George,BC,CA,phd,McGill University,1998.0,2002.0,Montreal,QC,CA
+Eric Déziel,masters,INRS-Institut Armand-Frappier,1993.0,1996.0,Laval,QC,CA,phd,Ecole Polytechnique de Montréal,1996.0,2001.0,Montreal,QC,CA
+Daniel Coutu,bachelors,Université de Montréal,2001.0,2004.0,Montreal,QC,CA,phd,McGill University,2004.0,2011.0,Montreal,QC,CA
+Mathieu Ardyna,masters,Université du Québec à Rimouski,2008.0,2010.0,Rimouski,QC,CA,phd,Université Laval,2010.0,2014.0,Quebec,QC,CA
+Craig Howard Kerr,bachelors,University of Guelph,2007.0,2011.0,Guelph,ON,CA,phd,University of British Columbia,2012.0,2018.0,Vancouver,BC,CA
+Ashley J. Ruiter,bachelors,York University,1997.0,2002.0,Toronto,ON,CA,masters,Saint Mary's University,2002.0,2004.0,Halifax,NS,CA
+Manpreet Kalkat,bachelors,University of Toronto,2003.0,2008.0,Toronto,ON,CA,masters,University of Toronto,2008.0,2010.0,Toronto,ON,CA
+Manpreet Kalkat,masters,University of Toronto,2008.0,2010.0,Toronto,ON,CA,phd,University of Toronto,2010.0,2016.0,Toronto,ON,CA
+Philippe Dufresne,bachelors,Université du Québec à Trois-Rivières,2009.0,2012.0,Trois-Rivieres,QC,CA,masters,Université Laval,2014.0,2015.0,Québec,Québec,CA
+Van Lu,bachelors,University of Alberta,1998.0,2002.0,Edmonton,AB,CA,phd,University of Alberta,2002.0,2007.0,Edmonton,AB,CA
+Jeremy Heil,bachelors,Brock University,1992.0,1997.0,Saint Catharines,ON,CA,masters,University of British Columbia,1998.0,2000.0,Vancouver,BC,CA
+Derek Sattler,masters,University of British Columbia,2006.0,2008.0,Vancouver,BC,CA,phd,University of Alberta,2009.0,2015.0,Edmonton,AB,CA
+Maria Holuszko,masters,University of British Columbia,1987.0,1991.0,Vancouver,BC,CA,phd,University of British Columbia,2000.0,2006.0,Vancouver,BC,CA
+Sara Gallant,bachelors,University of Windsor,2007.0,2011.0,Windsor,ON,CA,masters,Ryerson University,2011.0,2013.0,Toronto,ON,CA
+Sara Gallant,masters,Ryerson University,2011.0,2013.0,Toronto,ON,CA,phd,Ryerson University,2013.0,2017.0,Toronto,Ontario,CA
+Paula Thomson,bachelors,York University,1969.0,1973.0,Toronto,ON,CA,masters,York University,1974.0,1976.0,Toronto,ON,CA
+Matthew J Kaufman,masters,York University,2006.0,2008.0,Toronto,ON,CA,phd,York University,2009.0,2017.0,Toronto,ON,CA
+C. Mendes de Oliveira,masters,University of British Columbia,1986.0,1988.0,Vancouver,BC,CA,phd,University of British Columbia,1988.0,1992.0,Vancouver,BC,CA
+Greg Yetman,bachelors,Saint Mary's University,1991.0,1996.0,Halifax,NS,CA,masters,McGill University,1996.0,2000.0,Montreal,QC,CA
+Benjamin Elwood,bachelors,University of Prince Edward Island,2009.0,2013.0,Charlottetown,PE,CA,masters,University of Saskatchewan,2013.0,2016.0,Saskatoon,SK,CA
+Adam Cole,masters,University of Waterloo,2011.0,2013.0,Waterloo,Ontario,CA,phd,University of Waterloo,2013.0,2018.0,Waterloo,Ontario,CA
+Roshanak Banan,masters,University of Western Ontario,2008.0,2010.0,London,ON,CA,phd,University of Toronto,2010.0,2014.0,Toronto,ON,CA
+Geneviève Garriss,bachelors,Université de Sherbrooke Département de Biologie,2002.0,2006.0,Sherbrooke,QC,CA,masters,Université de Sherbrooke Département de Biologie,2006.0,2008.0,Sherbrooke,QC,CA
+Geneviève Garriss,masters,Université de Sherbrooke Département de Biologie,2006.0,2008.0,Sherbrooke,QC,CA,phd,Université de Sherbrooke Département de Biologie,2008.0,2012.0,Sherbrooke,QC,CA
+Ryan Dowling,bachelors,University of Guelph,1997.0,2001.0,Guelph,ON,CA,masters,University of Guelph,2001.0,2004.0,Guelph,ON,CA
+Ryan Dowling,masters,University of Guelph,2001.0,2004.0,Guelph,ON,CA,phd,McGill University,2004.0,2009.0,Montreal,QC,CA
+Trevor Janes,bachelors,University of British Columbia,2009.0,2011.0,Vancouver,BC,CA,phd,University of Toronto,2011.0,2017.0,Toronto,ON,CA
+Andrew Joy,bachelors,Mount Saint Vincent University,2001.0,2005.0,Halifax,NS,CA,masters,Dalhousie University,2005.0,2007.0,Halifax,NS,CA
+J.E. Letourneau,bachelors,University of New Brunswick,1988.0,1993.0,Fredericton,NB,CA,masters,Memorial University of Newfoundland,1993.0,1997.0,Saint John's,NL,CA
+Gail Prasad,bachelors,Queen's University,1998.0,2003.0,Kingston,ON,CA,masters,University of Toronto,2007.0,2009.0,Toronto,ON,CA
+Gail Prasad,masters,University of Toronto,2007.0,2009.0,Toronto,ON,CA,phd,University of Toronto,2009.0,2015.0,Toronto,ON,CA
+Zisis Papandreou,bachelors,University of Regina,1980.0,1984.0,Regina,SK,CA,phd,University of Regina,1984.0,1989.0,Regina,SK,CA
+Marcus Thomson,bachelors,Queen's University,1997.0,2001.0,Kingston,ON,CA,masters,Queen's University,2001.0,2004.0,Kingston,ON,CA
+Tim Molnar,masters,University of Regina,1985.0,1989.0,Regina,SK,CA,phd,University of Victoria,2003.0,2009.0,Victoria,BC,CA
+Otman El Rhazi,bachelors,King's University College,1988.0,1990.0,London,ON,CA,phd,Université du Québec à Chicoutimi,1990.0,1997.0,Chicoutimi,QC,CA
+Morgan Roberts,bachelors,McGill University,2005.0,2008.0,Montreal,QC,CA,phd,University of British Columbia,2010.0,2015.0,Vancouver,BC,CA
+Matthew Beedham,bachelors,Simon Fraser University,1987.0,1992.0,Burnaby,BC,CA,masters,University of Toronto,1993.0,1995.0,Toronto,ON,CA
+Tonia Nicholls,bachelors,University of Lethbridge,1991.0,1995.0,Lethbridge,AB,CA,masters,Simon Fraser University,1995.0,1997.0,Burnaby,BC,CA
+Tonia Nicholls,masters,Simon Fraser University,1995.0,1997.0,Burnaby,BC,CA,phd,Simon Fraser University,1998.0,2002.0,Burnaby,B.C.,CA
+Timothy Bender,bachelors,Carleton University,1991.0,1995.0,Ottawa,ON,CA,phd,Carleton University,1996.0,1999.0,Ottawa,ON,CA
+David Day,bachelors,York University,1976.0,1980.0,Toronto,ON,CA,masters,University of Windsor Department of Psychology,1982.0,1984.0,Windsor,ON,CA
+David Day,masters,University of Windsor Department of Psychology,1982.0,1984.0,Windsor,ON,CA,phd,University of Windsor Department of Psychology,1984.0,1991.0,Windsor,ON,CA
+Simon Rivard-Girard,bachelors,Université du Québec en Outaouais,2009.0,2012.0,Gatineau,QC,CA,masters,Ecole Polytechnique de Montréal,2012.0,2015.0,Montreal,QC,CA
+Johanna Weststar,bachelors,McMaster University,1997.0,2001.0,Hamilton,ON,CA,masters,Queen's University,2002.0,2003.0,Kingston,ON,CA
+Johanna Weststar,masters,Queen's University,2002.0,2003.0,Kingston,ON,CA,phd,University of Toronto,2003.0,2007.0,Toronto,ON,CA
+Joel Hutchinson,bachelors,University of Alberta,2008.0,2012.0,Edmonton,AB,CA,masters,University of British Columbia,2013.0,2014.0,Vancouver,BC,CA
+Jacqueline Fortier,bachelors,University of Victoria,2006.0,2011.0,Victoria,British Columbia,CA,masters,Memorial University,2013.0,2015.0,St. John's,Newfoundland and Labrador,CA
+Dan Fornika,bachelors,Simon Fraser University,2000.0,2006.0,Burnaby,BC,CA,masters,University of British Columbia,2007.0,2012.0,Vancouver,BC,CA
+Yan Lévesque,bachelors,Université du Québec à Chicoutimi,2011.0,2016.0,Chicoutimi,QC,CA,masters,Université du Québec à Rimouski,2016.0,2018.0,Rimouski,QC,CA
+Christie Hurrell,bachelors,University of British Columbia,1997.0,2001.0,Vancouver,BC,CA,masters,Ryerson and York Universities,2002.0,2004.0,Toronto,ON,CA
+Mehdi Nourinejad,masters,University of Toronto,2012.0,2013.0,Toronto,Ontario,CA,phd,University of Toronto,2013.0,2017.0,Toronto,ON,CA
+David Askew,bachelors,University of British Columbia,1977.0,1981.0,Vancouver,BC,CA,phd,University of British Columbia,1981.0,1986.0,Vancouver,BC,CA
+Steven Rafferty,bachelors,University of Waterloo,1981.0,1986.0,Waterloo,ON,CA,phd,University of British Columbia,1986.0,1992.0,Vancouver,BC,CA
+Corey Davis,bachelors,University of Victoria,1993.0,1997.0,Victoria,BC,CA,masters,University of British Columbia,2000.0,2003.0,Vancouver,BC,CA
+Nicolai van Oers,bachelors,University of Manitoba,1980.0,1984.0,Winnipeg,MB,CA,phd,McGill University,1984.0,1990.0,Montreal,QC,CA
+Jason Tyrone Forde,bachelors,University of Alberta,1997.0,2004.0,Edmonton,AB,CA,phd,Simon Fraser University,2011.0,2015.0,Burnaby,BC,CA
+Gregory McCluskey,bachelors,University of New Brunswick,2005.0,2009.0,Fredericton,NB,CA,masters,Dalhousie University,2009.0,2012.0,Halifax,NS,CA
+Wendy Taylor,bachelors,University of British Columbia,1986.0,1991.0,Vancouver,BC,CA,masters,University of Toronto,1992.0,1993.0,Toronto,ON,CA
+Wendy Taylor,masters,University of Toronto,1992.0,1993.0,Toronto,ON,CA,phd,University of Toronto,1993.0,1999.0,Toronto,ON,CA
+Caroline Rabideau,bachelors,Western University,2010.0,2013.0,London,ON,CA,masters,Western University,2016.0,2017.0,London,ON,CA
+juan xiong,masters,Western University,2005.0,2006.0,London,ON,CA,phd,Western University,2006.0,2010.0,London,ON,CA
+Matthew Wilson,bachelors,University of Waterloo,2010.0,2015.0,Waterloo,ON,CA,masters,University of Toronto,2015.0,2016.0,Toronto,ON,CA
+nicole clemence roy,bachelors,Université Laval,1984.0,1988.0,Quebec,QC,CA,masters,Université Laval,1988.0,1990.0,Quebec,QC,CA
+nicole clemence roy,masters,Université Laval,1988.0,1990.0,Quebec,QC,CA,phd,Université Laval,1991.0,1996.0,Quebec,QC,CA
+Kim Jones,bachelors,University of Waterloo Faculty of Engineering,1990.0,1995.0,Waterloo,ON,CA,masters,University of Guelph,1995.0,1998.0,Guelph,ON,CA
+Kim Jones,masters,University of Guelph,1995.0,1998.0,Guelph,ON,CA,phd,University of Toronto,1998.0,2004.0,Toronto,ON,CA
+Tristan R.H. Goodbody,bachelors,University of British Columbia,2010.0,2015.0,Vancouver,British Columbia,CA,phd,University of British Columbia,2015.0,2019.0,Vancouver,BC,CA
+Thomas Froh,bachelors,Carleton University,2008.0,2012.0,Ottawa,ON,CA,masters,Carleton University,2012.0,2013.0,Ottawa,ON,CA
+Rebecca McEvoy,bachelors,Saint Francis Xavier University,2010.0,2014.0,Antigonish,NS,CA,masters,University of Guelph,2014.0,2016.0,Guelph,ON,CA
+Jessica Pudwell,bachelors,University of Guelph,2004.0,2008.0,Guelph,ON,CA,masters,Queen's University,2013.0,2019.0,Kingston,ON,CA
+Prashant Shekhar,bachelors,University of Waterloo,2006.0,2011.0,Waterloo,ON,CA,masters,University of Alberta,2011.0,2013.0,Edmonton,AB,CA
+Yaojie Cai,bachelors,University of Manitoba,2009.0,2014.0,Winnipeg,MB,CA,masters,University of Manitoba,2014.0,2016.0,Winnipeg,MB,CA
+Ian Vander Meulen,bachelors,King's University,2011.0,2015.0,Edmonton,AB,CA,masters,University of Alberta,2015.0,2018.0,Edmonton,AB,CA
+Alexandre M. M. C. Loureiro,bachelors,Dalhousie University,2012.0,2016.0,Truro,NS,CA,masters,Dalhousie University,2016.0,2018.0,Truro,NS,CA
+Tyler Moulton,bachelors,McGill University Faculty of Science,2008.0,2013.0,Montreal,QC,CA,masters,McGill University Faculty of Science,2014.0,2017.0,Montreal,QC,CA
+Lisa Osborne,bachelors,University of Victoria,2000.0,2004.0,Victoria,BC,CA,phd,University of British Columbia Faculty of Science,2004.0,2010.0,Vancouver,BC,CA
+Lilith Wyatt,bachelors,Dalhousie University,2003.0,2007.0,Halifax,NS,CA,masters,Royal Roads University,2008.0,2012.0,Victoria,BC,CA
+Majid Bizhani,masters,University of Alberta,2011.0,2013.0,Edmonton,AB,CA,phd,University of Alberta,2013.0,2017.0,Edmonton,AB,CA
+Gordon G McNickle,bachelors,University of Toronto - Mississauga,2000.0,2004.0,Mississauga,ON,CA,phd,University of Alberta,2005.0,2010.0,Edmonton,AB,CA
+Mona Lisa Chanda,bachelors,Concordia University,1999.0,2004.0,Montreal,Quebec,CA,phd,McGill University,2004.0,2009.0,Montreal,Quebec,CA
+Gustavo Velasco,bachelors,University of Winnipeg,2004.0,2008.0,Winnipeg,MB,CA,masters,University of Manitoba,2008.0,2011.0,Winnipeg,MB,CA
+Shirin Kalyan,bachelors,University of British Columbia,1995.0,1999.0,Vancouver,BC,CA,phd,University of British Columbia,2000.0,2006.0,Vancouver,BC,CA
+Gillian Petit,bachelors,University of Alberta,2005.0,2009.0,Edmonton,AB,CA,masters,Queen's University,2010.0,2011.0,Kingston,ON,CA
+Gillian Petit,masters,Queen's University,2010.0,2011.0,Kingston,ON,CA,phd,Queen's University,2011.0,2013.0,Kingston,ON,CA
+John Ristau,bachelors,University of Manitoba,1990.0,1995.0,Winnipeg,MB,CA,masters,University of Manitoba,1995.0,1999.0,Winnipeg,MB,CA
+John Ristau,masters,University of Manitoba,1995.0,1999.0,Winnipeg,MB,CA,phd,University of Victoria,2000.0,2004.0,Victoria,BC,CA
+Stefany Ildefonso Acuna,bachelors,McGill University,2012.0,2015.0,Montreal,Quebec,CA,masters,Universite de Montreal,2015.0,2017.0,Montreal,Quebec,CA
+Laufer BI,bachelors,University of Western Ontario,2006.0,2010.0,London,ON,CA,phd,University of Western Ontario,2010.0,2016.0,London,ON,CA
+Deborah Simmons,masters,Sir John Franklin High School,1977.0,1980.0,Yellowknife,Northwest Territories,CA,phd,York University,1987.0,1995.0,Toronto,ON,CA
+Kevin Stroski,bachelors,University of Winnipeg,2012.0,2017.0,Winnipeg,MB,CA,masters,University of Manitoba,2017.0,2019.0,Winnipeg,MB,CA
+Cameron Lam,bachelors,University of Toronto,2005.0,2010.0,Toronto,ON,CA,masters,University of British Columbia,2010.0,2013.0,Vancouver,BC,CA
+Cameron Lam,masters,University of British Columbia,2010.0,2013.0,Vancouver,BC,CA,phd,McMaster University Michael G DeGroote School of Medicine,2014.0,2017.0,Hamilton,ON,CA
+Sinisa Vukovic,bachelors,University of Saskatchewan,1997.0,2001.0,Saskatoon,SK,CA,masters,University of Toronto,2001.0,2003.0,Toronto,ON,CA
+Sinisa Vukovic,masters,University of Toronto,2001.0,2003.0,Toronto,ON,CA,phd,University of Toronto,2003.0,2007.0,Toronto,ON,CA
+Patricia Ballamingie,bachelors,Queen's University,1988.0,1992.0,Kingston,ON,CA,phd,Carleton University,1998.0,2006.0,Ottawa,ON,CA
+Lisa O'Neill,masters,Royal Roads University,2000.0,2002.0,Victoria,BC,CA,phd,University of Calgary,2009.0,2014.0,Calgary,AB,CA
+Gavin Chu,bachelors,Queen's University,2006.0,2010.0,Kingston,ON,CA,phd,University of Alberta,2010.0,2014.0,Edmonton,AB,CA
+Carole Lunny,bachelors,Queen's University,1990.0,1994.0,Kingston,ON,CA,masters,Athabasca University,2007.0,2011.0,Athabasca,AB,CA
+Stephane Thibodeau,bachelors,University of Ottawa,2009.0,2013.0,Ottawa,Ontario,CA,masters,Queen's University,2013.0,2014.0,Kingston,Ontario,CA
+Stephane Thibodeau,masters,Queen's University,2013.0,2014.0,Kingston,Ontario,CA,phd,Northern Ontario School of Medicine,2015.0,2019.0,Sudbury,ON,CA
+Melanie Sekeres,bachelors,Trent University,1998.0,2002.0,Peterborough,Ontario,CA,phd,University of Toronto,2006.0,2012.0,Toronto,Ontario,CA
+Atiq Hassan,masters,University of Calgary Faculty of Medicine,2004.0,2007.0,Calgary,AB,CA,phd,University of Saskatchewan,2009.0,2014.0,Saskatoon,SK,CA
+Olivier Fisette,bachelors,Université Laval,2000.0,2003.0,Québec,QC,CA,masters,Université Laval,2003.0,2005.0,Québec,QC,CA
+Olivier Fisette,masters,Université Laval,2003.0,2005.0,Québec,QC,CA,phd,Université Laval,2005.0,2012.0,Québec,QC,CA
+Chandra Farrer,bachelors,University of Western Ontario,1994.0,1998.0,London,Ontario,CA,masters,University of Toronto,2016.0,2017.0,Toronto,ON,CA
+Melissa Cheung,bachelors,Carleton University,2002.0,2006.0,Ottawa,ON,CA,masters,University of Ottawa,2009.0,2011.0,Ottawa,ON,CA
+Jennifer Lento,bachelors,University of Guelph,1998.0,2002.0,Guelph,ON,CA,masters,Trent University,2002.0,2004.0,Peterborough,ON,CA
+Jennifer Lento,masters,Trent University,2002.0,2004.0,Peterborough,ON,CA,phd,University of Ottawa,2005.0,2010.0,Ottawa,ON,CA
+Thomas Thompson,bachelors,University of Manitoba,1979.0,1983.0,Winnipeg,MB,CA,masters,University of Waterloo,1983.0,1985.0,Waterloo,ON,CA
+Thomas Thompson,masters,University of Waterloo,1983.0,1985.0,Waterloo,ON,CA,phd,University of Waterloo,1985.0,1989.0,Waterloo,ON,CA
+Monica Ward,bachelors,Dalhousie University,2003.0,2008.0,Halifax,NS,CA,masters,Dalhousie University,2009.0,2011.0,Halifax,NS,CA
+Katherine Drolet-Vives,bachelors,Concordia University,2001.0,2004.0,Montreal,QC,CA,masters,Université de Montréal,2005.0,2009.0,Montreal,QC,CA
+Robert Letcher,bachelors,University of Toronto Scarborough,1983.0,1987.0,Toronto,ON,CA,masters,Carleton University,1989.0,1991.0,Ottawa,ON,CA
+Robert Letcher,masters,Carleton University,1989.0,1991.0,Ottawa,ON,CA,phd,Carleton University,1991.0,1996.0,Ottawa,ON,CA
+Mengchi Liu,masters,University of Calgary,1988.0,1990.0,Calgary,Alberta,CA,phd,University of Calgary,1990.0,1992.0,Calgary,AB,CA
+Sam Keshen,bachelors,McGill University,2011.0,2015.0,Montreal,QC,CA,masters,University of Toronto Institute of Biomaterials and Biomedical Engineering,2017.0,2019.0,Toronto,ON,CA
+Joe Putos,bachelors,Queen's University,1981.0,1985.0,Kingston,ON,CA,phd,Western University,2012.0,2017.0,London,ON,CA
+Stephanie Kerr,bachelors,University of Manitoba,2003.0,2008.0,Winnipeg,Manitoba,CA,masters,University of Manitoba,2008.0,2010.0,Winnipeg,Manitoba,CA
+Stephanie Kerr,masters,University of Manitoba,2008.0,2010.0,Winnipeg,Manitoba,CA,phd,University of Ottawa,2011.0,2016.0,Ottawa,Ontario,CA
+Wanrudee Isaranuwatchai,bachelors,University of Waterloo,1999.0,2003.0,Waterloo,Ontario,CA,phd,University of Toronto,2006.0,2011.0,Toronto,Ontario,CA
+Nermin Eltouny,masters,McGill University,2007.0,2009.0,Montreal,QC,CA,phd,McGill University,2010.0,2014.0,Montreal,QC,CA
+Kaylena Ehgoetz Martens,bachelors,Wilfrid Laurier University,2006.0,2010.0,Waterloo,ON,CA,masters,University of Waterloo,2010.0,2012.0,Waterloo,ON,CA
+Donald Matthews,bachelors,Lakehead University,1999.0,2002.0,Thunder Bay,ON,CA,masters,Lakehead University,2002.0,2005.0,Thunder Bay,ON,CA
+Adam S. Tunis,bachelors,Queen's University,1998.0,2002.0,Kingston,ON,CA,masters,University of Toronto,2002.0,2005.0,Toronto,ON,CA
+Eric Donovan,bachelors,University of Western Ontario Faculty of Science,1980.0,1986.0,London,ON,CA,masters,University of Western Ontario Faculty of Science,1986.0,1988.0,London,ON,CA
+Eric Donovan,masters,University of Western Ontario Faculty of Science,1986.0,1988.0,London,ON,CA,phd,University of Alberta,1988.0,1993.0,Edmonton,AB,CA
+Amanda L. J. Duffus,bachelors,Queen's University,2000.0,2004.0,Kingston,ON,CA,masters,Trent University,2004.0,2006.0,Peterborough,ON,CA
+Debra Hellbach,bachelors,University of British Columbia,1982.0,1986.0,Vancouver,BC,CA,masters,Royal Roads University,2017.0,2019.0,Victoria,BC,CA
+Patrice Roy,masters,Universite du Quebec a Montreal,2006.0,2007.0,Montréal,QC,CA,phd,Université de Sherbrooke Faculté des Sciences,2008.0,2011.0,Sherbrooke,QC,CA
+M Alex Smith,bachelors,Trent University,1992.0,1996.0,Peterborough,Ontario,CA,masters,Trent University,1996.0,1998.0,Peterborough,Ontario,CA
+M Alex Smith,masters,Trent University,1996.0,1998.0,Peterborough,Ontario,CA,phd,McGill University,1999.0,2004.0,Montreal,QC,CA
+Anne L. Myers,bachelors,Dalhousie University,2001.0,2005.0,Halifax,NS,CA,masters,University of Toronto,2006.0,2008.0,Toronto,ON,CA
+Anne L. Myers,masters,University of Toronto,2006.0,2008.0,Toronto,ON,CA,phd,University of Toronto,2009.0,2014.0,Toronto,ON,CA
+Erik Nelson,bachelors,University of Calgary,1998.0,2002.0,Calgary,AB,CA,phd,University of Calgary,2002.0,2008.0,Calgary,AB,CA
+José F. Domene,bachelors,Trent University,1991.0,1995.0,Peterborough,ON,CA,masters,Trinity Western University,1996.0,1998.0,Langley,BC,CA
+José F. Domene,masters,Trinity Western University,1996.0,1998.0,Langley,BC,CA,phd,University of British Columbia,2001.0,2005.0,Vancouver,BC,CA
+Mark Mahadeo,bachelors,University of Calgary,2006.0,2010.0,Calgary,AB,CA,phd,University of Calgary,2011.0,2017.0,Calgary,AB,CA
+Devin Van Elburg,bachelors,Lakehead University,2011.0,2016.0,Thunder Bay,ON,CA,masters,University of Manitoba,2016.0,2018.0,Winnipeg,MB,CA
+David Hik,bachelors,Queen's University,1982.0,1986.0,Kingston,ON,CA,masters,University of Toronto,1986.0,1988.0,Toronto,ON,CA
+David Hik,masters,University of Toronto,1986.0,1988.0,Toronto,ON,CA,phd,University of British Columbia,1988.0,1994.0,Vancouver,BC,CA
+Martin Helmer,bachelors,University of Ontario Institute of Technology,2005.0,2009.0,Oshawa,ON,CA,masters,Queen's University,2009.0,2011.0,Kingston,ON,CA
+Martin Helmer,masters,Queen's University,2009.0,2011.0,Kingston,ON,CA,phd,Western University,2011.0,2015.0,London,ON,CA
+Mary-Elizabeth Vaccaro,bachelors,McMaster University,2008.0,2012.0,Hamilton,ON,CA,masters,McMaster University,2013.0,2014.0,Hamilton,ON,CA
+Joseph Petrus,bachelors,University of Waterloo,2002.0,2007.0,Waterloo,Ontario,CA,masters,Queen's University,2007.0,2009.0,Kingston,ON,CA
+Joseph Petrus,masters,Queen's University,2007.0,2009.0,Kingston,ON,CA,phd,Laurentian University,2010.0,2014.0,Sudbury,ON,CA
+Celyne Bastien,bachelors,University of Ottawa,1987.0,1989.0,Ottawa,ON,CA,phd,University of Ottawa,1989.0,1993.0,Ottawa,ON,CA
+Scott Mazurkewich,bachelors,University of Guelph,2005.0,2010.0,Guelph,Ontario,CA,phd,University of Guelph,2010.0,2016.0,Guelph,ON,CA
+Tarun Rahman,bachelors,University of Ottawa,2008.0,2012.0,Ottawa,ON,CA,masters,University of Toronto,2012.0,2014.0,Toronto,ON,CA
+Mark Lazarovich,bachelors,McGill University Faculty of Science,1977.0,1979.0,Montreal,QC,CA,masters,McGill University Faculty of Science,1979.0,1981.0,Montreal,QC,CA
+Busisiwe Ncube,bachelors,University of Toronto,2006.0,2011.0,Toronto,Ontario,CA,masters,York University,2013.0,2015.0,Toronto,Ontario,CA
+Cassandra Ellis,bachelors,Western University,2007.0,2011.0,London,ON,CA,phd,Western University,2013.0,2017.0,London,ON,CA
+Rui Xue Zhang,bachelors,McMaster University,2003.0,2007.0,Hamilton,ON,CA,masters,McMaster University,2007.0,2009.0,Hamilton,ON,CA
+Rui Xue Zhang,masters,McMaster University,2007.0,2009.0,Hamilton,ON,CA,phd,University of Toronto,2009.0,2016.0,Toronto,ON,CA
+Maria Zych,bachelors,University of Waterloo,2001.0,2004.0,Waterloo,Ontario,CA,masters,University of Toronto,2005.0,2007.0,Toronto,ON,CA
+Kenneth F Valyear,bachelors,University of Western Ontario Faculty of Science,1998.0,2002.0,London,ON,CA,phd,University of Western Ontario,2006.0,2010.0,London,Ontario,CA
+Raymond A Saumure,bachelors,University of Guelph,1986.0,1993.0,Guelph,ON,CA,masters,McGill University,1993.0,1997.0,Montreal,QC,CA
+Raymond A Saumure,masters,McGill University,1993.0,1997.0,Montreal,QC,CA,phd,McGill University,1997.0,2004.0,Montreal,QC,CA
+Xingjian Xu,bachelors,University of British Columbia,2011.0,2016.0,Vancouver,BC,CA,masters,University of Montreal,2016.0,2017.0,Montreal,Quebec,CA
+Shaun Cleaver,bachelors,University of Ottawa,1998.0,2002.0,Ottawa,ON,CA,masters,Queen's University,2005.0,2007.0,Kingston,ON,CA
+Shaun Cleaver,masters,Queen's University,2005.0,2007.0,Kingston,ON,CA,phd,University of Toronto,2011.0,2016.0,Toronto,ON,CA
+Dominic Reiffarth,bachelors,University of Northern British Columbia,1993.0,1998.0,Prince George,BC,CA,masters,University of Northern British Columbia Graduate School,2003.0,2006.0,Prince George,BC,CA
+Mehrdad Pirnia,masters,University of Waterloo,2007.0,2010.0,Waterloo,ON,CA,phd,University of Waterloo,2010.0,2014.0,Waterloo,ON,CA
+Harvey Bootsma,masters,University of Guelph,1980.0,1985.0,Guelph,ON,CA,phd,University of Manitoba,1988.0,1993.0,Winnipeg,MB,CA
+Emma Duerden,bachelors,McGill University,1999.0,2002.0,Montreal,Quebec,CA,masters,McGill University,2002.0,2005.0,Montreal,QC,CA
+Emma Duerden,masters,McGill University,2002.0,2005.0,Montreal,QC,CA,phd,University of Montreal,2005.0,2010.0,Montreal,Quebec,CA
+Alexandra Yacyshyn,bachelors,University of British Columbia Okanagan,2011.0,2014.0,Kelowna,BC,CA,masters,University of British Columbia Okanagan,2014.0,2016.0,Kelowna,BC,CA
+Jonas Mureika,bachelors,University of Toronto,1989.0,1993.0,Toronto,ON,CA,masters,University of Waterloo,1993.0,1995.0,Waterloo,ON,CA
+Jonas Mureika,masters,University of Waterloo,1993.0,1995.0,Waterloo,ON,CA,phd,University of Toronto,1998.0,2001.0,Toronto,ON,CA
+Krystn Orr,bachelors,McMaster University,2010.0,2014.0,Hamilton,ON,CA,masters,University of Toronto,2014.0,2016.0,Toronto,ON,CA
+Patience Adamu,bachelors,Carleton University,2008.0,2011.0,Ottawa,Ontario,CA,masters,York University,2012.0,2014.0,Toronto,Ontario,CA
+Steven M. Maley,bachelors,Lakehead University,2008.0,2012.0,Thunder Bay,ON,CA,phd,Lakehead University,2013.0,2018.0,Thunder Bay,ON,CA
+Reza Tavakkol Afshari,masters,University of Saskatchewan,1991.0,1994.0,Saskatoon,SK,CA,phd,University of Saskatchewan,1994.0,1998.0,Saskatoon,SK,CA
+Netina Tan,masters,University of Regina,2003.0,2004.0,Regina,SK,CA,phd,University of British Columbia,2004.0,2010.0,Vancouver,BC,CA
+Samantha McFarlane,bachelors,University of Winnipeg,2007.0,2012.0,Winnipeg,MB,CA,masters,University of Manitoba,2013.0,2015.0,Winnipeg,MB,CA
+Andrew Cameron,bachelors,Queen's University,2007.0,2011.0,Kingston,ON,CA,phd,Queen's University,2012.0,2016.0,Kingston,Ontario,CA
+Louise Jones,bachelors,Laurentian University,2010.0,2014.0,Sudbury,ON,CA,masters,University of Toronto,2014.0,2015.0,Toronto,ON,CA
+Veronique  Belanger,bachelors,Université de Montréal,2009.0,2012.0,Montreal,QC,CA,masters,Université de Montréal,2014.0,2016.0,Montreal,QC,CA
+Gordon Shepherd,bachelors,University of Saskatchewan,1948.0,1952.0,Saskatoon,Saskatchewan,CA,masters,University of Saskatchewan,1952.0,1953.0,Saskatoon,SK,CA
+Gordon Shepherd,masters,University of Saskatchewan,1952.0,1953.0,Saskatoon,SK,CA,phd,University of Toronto,1954.0,1956.0,Toronto,ON,CA
+Shahab Jamali,masters,Brock University,2005.0,2007.0,Saint Catharines,ON,CA,phd,University of Toronto Department of Medical Biophysics,2007.0,2013.0,Toronto,ON,CA
+Carolyn Gaspar,bachelors,Lakehead University,2011.0,2015.0,Thunder Bay,Ontario,CA,masters,University of Saskatchewan,2015.0,2018.0,Saskatoon,Saskatchewan,CA
+Laura Gray,bachelors,University of Victoria,2001.0,2005.0,Victoria,BC,CA,masters,University of Alberta,2006.0,2008.0,Edmonton,AB,CA
+Laura Gray,masters,University of Alberta,2006.0,2008.0,Edmonton,AB,CA,phd,University of Alberta,2008.0,2011.0,Edmonton,AB,CA
+R Keith Humphries,bachelors,University of Alberta,1966.0,1970.0,Edmonton,AB,CA,masters,University of Toronto,1970.0,1972.0,Toronto,ON,CA
+R Keith Humphries,masters,University of Toronto,1970.0,1972.0,Toronto,ON,CA,phd,University of British Columbia,1976.0,1980.0,Vancouver,BC,CA
+Brendan Byrne,masters,University of Victoria,2012.0,2014.0,Victoria,BC,CA,phd,University of Toronto,2014.0,2018.0,Toronto,ON,CA
+Kristine Newman,masters,Queen's University,2003.0,2005.0,Kingston,ON,CA,phd,University of Toronto,2007.0,2012.0,Toronto,ON,CA
+Leslie Auger,masters,Brock University,2006.0,2008.0,Saint Catharines,ON,CA,phd,University of Guelph College of Biological Science,2008.0,2012.0,Guelph,ON,CA
+Andrea Raynak,bachelors,Lakehead University,2005.0,2008.0,Thunder Bay,ON,CA,masters,Lakehead University School of Nursing,2012.0,2014.0,Thunder Bay,ON,CA
+Sean T. McBeath,bachelors,University of British Columbia,2009.0,2013.0,Vancouver,BC,CA,masters,University of British Columbia,2014.0,2016.0,Vancouver,BC,CA
+Sara Allain,bachelors,Queen's University,2006.0,2010.0,Kingston,Ontario,CA,masters,University of Toronto,2010.0,2012.0,Toronto,Ontario,CA
+Todd Dufresne,bachelors,University of Western Ontario,1984.0,1988.0,London,Ontario,CA,phd,York University,1990.0,1997.0,Toronto,ON,CA
+Justin Beckers,bachelors,University of Alberta,2006.0,2008.0,Edmonton,Alberta,CA,masters,University of Alberta,2009.0,2012.0,Edmonton,Alberta,CA
+Susan Asmussen,bachelors,Western University,2004.0,2008.0,London,ON,CA,phd,Western University,2008.0,2013.0,London,ON,CA
+Max Gong,bachelors,University of Toronto,2003.0,2007.0,Toronto,ON,CA,masters,University of Guelph,2007.0,2010.0,Guelph,ON,CA
+Max Gong,masters,University of Guelph,2007.0,2010.0,Guelph,ON,CA,phd,University of Toronto,2011.0,2015.0,Toronto,ON,CA
+Ali Jannati,masters,Simon Fraser University,2007.0,2009.0,Burnaby,BC,CA,phd,Simon Fraser University,2009.0,2014.0,Burnaby,BC,CA
+George Liu,bachelors,University of Toronto,2008.0,2012.0,Toronto,ON,CA,masters,York University,2012.0,2014.0,Toronto,ON,CA
+Anita Christie,bachelors,Brock University,1997.0,2001.0,Saint Catharines,ON,CA,masters,Brock University,2001.0,2003.0,Saint Catharines,ON,CA
+Erin Tripp,bachelors,University of King's College,2002.0,2006.0,Halifax,NS,CA,masters,Dalhousie University,2009.0,2011.0,Halifax,NS,CA
+Greg McFarquhar,bachelors,University of Toronto,1983.0,1987.0,Toronto,ON,CA,masters,University of Toronto,1987.0,1989.0,Toronto,ON,CA
+Greg McFarquhar,masters,University of Toronto,1987.0,1989.0,Toronto,ON,CA,phd,University of Toronto,1989.0,1993.0,Toronto,ON,CA
+Angelia Wagner,bachelors,Carleton University,1990.0,1994.0,Ottawa,ON,CA,masters,University of Alberta,2008.0,2010.0,Edmonton,AB,CA
+Angelia Wagner,masters,University of Alberta,2008.0,2010.0,Edmonton,AB,CA,phd,University of Alberta,2010.0,2015.0,Edmonton,AB,CA
+Quentin Pittman,bachelors,University of Lethbridge,1969.0,1972.0,Lethbridge,AB,CA,phd,University of Calgary,1972.0,1976.0,Calgary,AB,CA
+Jocelyn Nadeau,bachelors,Université de Montréal,1986.0,1988.0,Montreal,QC,CA,masters,Télé-université Université du Québec à Montréal,2004.0,2012.0,Quebec,QC,CA
+Yang Ding,bachelors,University of Western Ontario,2005.0,2009.0,London,Ontario,CA,phd,McGill University,2009.0,2018.0,Montreal,Quebec,CA
+Virginia Ballance,bachelors,Carleton University,1974.0,1978.0,Ottawa,ON,CA,masters,University of Western Ontario,1981.0,1981.0,London,Ontario,CA
+Alana Pollock-Greenwood,bachelors,McMaster University,1999.0,2002.0,Hamilton,ON,CA,masters,University of Western Ontario,2004.0,2006.0,London,Ontario,CA
+Iain Moyles,bachelors,University of Ontario Institute of Technology,2005.0,2009.0,Oshawa,ON,CA,masters,University of British Columbia,2009.0,2011.0,Vancouver,BC,CA
+Iain Moyles,masters,University of British Columbia,2009.0,2011.0,Vancouver,BC,CA,phd,University of British Columbia,2011.0,2015.0,Vancouver,BC,CA
+Gilberto Fernandes,masters,University of Toronto,2007.0,2008.0,Toronto,ON,CA,phd,York University,2009.0,2014.0,Toronto,ON,CA
+Jordan Peckham,bachelors,Memorial University of Newfoundland,2003.0,2009.0,Saint John's,NL,CA,masters,Memorial University of Newfoundland,2009.0,2011.0,Saint John's,NL,CA
+Nadine Ibrahim,bachelors,University of Toronto,1996.0,2000.0,Toronto,ON,CA,masters,University of Toronto,2000.0,2003.0,Toronto,ON,CA
+Nadine Ibrahim,masters,University of Toronto,2000.0,2003.0,Toronto,ON,CA,phd,University of Toronto,2010.0,2015.0,Toronto,ON,CA
+Meriem Latrous,bachelors,University of Ottawa,2010.0,2013.0,Ottawa,ON,CA,phd,University of Ottawa,2013.0,2017.0,Ottawa,ON,CA
+Meghann Gregg,bachelors,McMaster University,1999.0,2004.0,Hamilton,ON,CA,masters,McMaster University,2010.0,2012.0,Hamilton,ON,CA
+Clarissa Forbes,bachelors,University of British Columbia,2008.0,2012.0,Vancouver,British Columbia,CA,masters,University of Toronto,2012.0,2013.0,Toronto,ON,CA
+Clarissa Forbes,masters,University of Toronto,2012.0,2013.0,Toronto,ON,CA,phd,University of Toronto,2013.0,2018.0,Toronto,ON,CA
+John Terning,bachelors,University of Alberta,1980.0,1984.0,Edmonton,AB,CA,masters,University of Toronto,1984.0,1985.0,Toronto,ON,CA
+John Terning,masters,University of Toronto,1984.0,1985.0,Toronto,ON,CA,phd,University of Toronto,1985.0,1990.0,Toronto,ON,CA
+Pamela Hoodless,bachelors,Queen's University,1981.0,1985.0,Kingston,ON,CA,phd,Queen's University,1985.0,1991.0,Kingston,ON,CA
+Elie Otayek,masters,Concordia University,2007.0,2009.0,Montreal,QC,CA,phd,Concordia University,2009.0,2016.0,Montreal,Quebec,CA
+Kate Zinszer,bachelors,University of Waterloo,1996.0,2000.0,Waterloo,Ontario,CA,masters,Dalhousie University,2001.0,2004.0,Halifax,Nova Scotia,CA
+Kate Zinszer,masters,Dalhousie University,2001.0,2004.0,Halifax,Nova Scotia,CA,phd,McGill University,2008.0,2014.0,Montreal,Quebec,CA
+Victor Wong,bachelors,University of Toronto,1999.0,2003.0,Toronto,ON,CA,masters,University of Toronto,2003.0,2005.0,Toronto,ON,CA
+Victor Wong,masters,University of Toronto,2003.0,2005.0,Toronto,ON,CA,phd,University of Toronto,2005.0,2010.0,Toronto,ON,CA
+Pietro-Luciano Buono,bachelors,Université de Montréal,1989.0,1992.0,Montreal,QC,CA,masters,Université de Montréal,1992.0,1994.0,Montreal,QC,CA
+Guy Bernard,bachelors,University of Manitoba,1990.0,1994.0,Winnipeg,MB,CA,masters,University of Manitoba,1994.0,1996.0,Winnipeg,MB,CA
+Guy Bernard,masters,University of Manitoba,1994.0,1996.0,Winnipeg,MB,CA,phd,Dalhousie University,1996.0,2000.0,Halifax,NS,CA
+Laura J. Smithson,bachelors,Brock University,2002.0,2006.0,Saint Catharines,ON,CA,masters,Queen's University,2006.0,2008.0,Kingston,ON,CA
+Laura J. Smithson,masters,Queen's University,2006.0,2008.0,Kingston,ON,CA,phd,Queen's University,2008.0,2013.0,Kingston,ON,CA
+Emilie Champagne,masters,Université Laval,2009.0,2012.0,Quebec,QC,CA,phd,Université Laval,2013.0,2017.0,Quebec,QC,CA
+Jared P Bruce,bachelors,University of Manitoba,2007.0,2012.0,Winnipeg,MB,CA,masters,University of Manitoba,2012.0,2015.0,Winnipeg,MB,CA
+Shawna Ferris,bachelors,Western University,1992.0,1996.0,London,ON,CA,masters,Dalhousie University,1999.0,2001.0,Halifax,NS,CA
+Shawna Ferris,masters,Dalhousie University,1999.0,2001.0,Halifax,NS,CA,phd,McMaster University,2002.0,2007.0,Hamilton,ON,CA
+Ronan Nicolas Rouxel,masters,INRS-Institut Armand-Frappier,2004.0,2008.0,Laval,QC,CA,phd,INRS-Institut Armand-Frappier,2008.0,2012.0,Laval,QC,CA
+Mumtaz Derya Tarhan,bachelors,York University,2004.0,2009.0,Toronto,ON,CA,masters,University of Waterloo,2010.0,2012.0,Waterloo,ON,CA
+Timothy A. Sipkens,bachelors,University of Waterloo,2007.0,2012.0,Waterloo,ON,CA,masters,University of Waterloo,2012.0,2014.0,Waterloo,ON,CA
+Timothy A. Sipkens,masters,University of Waterloo,2012.0,2014.0,Waterloo,ON,CA,phd,University of Waterloo,2014.0,2018.0,Waterloo,ON,CA
+Pierre-Yves Gasser,bachelors,McGill University,1982.0,1986.0,Sainte Anne de Bellevue,QC,CA,masters,University of Guelph,1987.0,1988.0,Guelph,ON,CA
+Marie-Annick Moreau,bachelors,McGill University,1994.0,1997.0,Montreal,Quebec,CA,masters,McGill University,2001.0,2004.0,Montreal,Quebec,CA
+Joe Recupero,bachelors,Ryerson University,1983.0,1986.0,Toronto,ON,CA,masters,Ryerson University Yeates School of Graduate Studies,2010.0,2011.0,Toronto,ON,CA
+Kira Lussier,bachelors,McGill University,2006.0,2010.0,Montreal,Quebec,CA,phd,University of Toronto,2012.0,2018.0,Toronto,Ontario,CA
+Estelle Monique Sidze,masters,University of Montreal,2004.0,2006.0,Montreal,QC,CA,phd,University of Montreal,2007.0,2011.0,Montreal,QC,CA
+Charles Henderson,bachelors,University of British Columbia,1975.0,1979.0,Vancouver,BC,CA,masters,University of British Columbia,1979.0,1981.0,Vancouver,BC,CA
+Charles Henderson,masters,University of British Columbia,1979.0,1981.0,Vancouver,BC,CA,phd,University of Calgary,1984.0,1988.0,Calgary,AB,CA
+Jessica Smith,bachelors,Western University,1999.0,2003.0,London,ON,CA,masters,McGill University,2003.0,2005.0,Montreal,QC,CA
+Jessica Smith,masters,McGill University,2003.0,2005.0,Montreal,QC,CA,phd,Laval University,2006.0,2010.0,Quebec,QC,CA
+kenzu Abdella,bachelors,Trent University,1982.0,1984.0,Peterborough,ON,CA,masters,University of Alberta,1987.0,1989.0,Edmonton,AB,CA
+kenzu Abdella,masters,University of Alberta,1987.0,1989.0,Edmonton,AB,CA,phd,University of Western Ontario,1989.0,1993.0,London,ON,CA
+Martyn Obbard,masters,University of Guelph,1974.0,1977.0,Guelph,ON,CA,phd,University of Guelph,1977.0,1983.0,Guelph,ON,CA
+Ian  Power,bachelors,University of Western Ontario Faculty of Science,2001.0,2005.0,London,ON,CA,phd,University of Western Ontario Faculty of Science,2005.0,2010.0,London,ON,CA
+Jordan Thompson,bachelors,University of Waterloo,2004.0,2009.0,Waterloo,ON,CA,masters,University of Waterloo,2009.0,2011.0,Waterloo,ON,CA
+Tamara Freeman,bachelors,University of Victoria,1998.0,2003.0,Victoria,BC,CA,phd,University of British Columbia,2004.0,2009.0,Vancouver,BC,CA
+Heather Sparling,bachelors,Wilfrid Laurier University,1991.0,1997.0,Waterloo,ON,CA,masters,York University,1997.0,2000.0,Toronto,ON,CA
+Heather Sparling,masters,York University,1997.0,2000.0,Toronto,ON,CA,phd,York University,2000.0,2006.0,Toronto,ON,CA
+Séamas Weech,masters,Queen's University,2011.0,2013.0,Kingston,ON,CA,phd,Queen's University,2013.0,2017.0,Kingston,ON,CA
+Derek Fisher,bachelors,University of Ottawa,1999.0,2003.0,Ottawa,ON,CA,masters,Carleton University,2004.0,2006.0,Ottawa,ON,CA
+Derek Fisher,masters,Carleton University,2004.0,2006.0,Ottawa,ON,CA,phd,Carleton University,2006.0,2012.0,Ottawa,ON,CA
+GuanQun Liu,masters,University of Saskatchewan,2010.0,2012.0,Saskatoon,SK,CA,phd,University of Saskatchewan,2013.0,2018.0,Saskatoon,SK,CA
+Morris Villarroel,masters,McGill University,1988.0,1992.0,Montreal,QC,CA,phd,McGill University,1992.0,1996.0,Montreal,QC,CA
+Christopher Cronin,bachelors,University of British Columbia,1993.0,1998.0,Vancouver,BC,CA,masters,University of Toronto,2000.0,2002.0,Toronto,ON,CA
+Keith D MacKenzie,bachelors,University of Saskatchewan,2005.0,2010.0,Saskatoon,Saskatchewan,CA,phd,University of Saskatchewan,2010.0,2017.0,Saskatoon,Saskatchewan,CA
+David Swanlund,bachelors,Simon Fraser University,2011.0,2016.0,Burnaby,BC,CA,masters,Simon Fraser University,2016.0,2017.0,Burnaby,BC,CA
+Marie-Michele Briand,bachelors,Université de Montréal,2004.0,2007.0,Montreal,QC,CA,masters,Université de Montréal,2007.0,2009.0,Montreal,QC,CA
+Marie-Michele Briand,masters,Université de Montréal,2007.0,2009.0,Montreal,QC,CA,phd,Universite de Sherbrooke Faculté de médecine et des sciences de la santé,2009.0,2013.0,Sherbrooke,QC,CA
+Sean van den Berg,bachelors,McGill University,2002.0,2006.0,Montreal,Quebec,CA,masters,McMaster University,2012.0,2014.0,Hamilton,Ontario,CA
+David Innes,bachelors,University of British Columbia,1970.0,1974.0,Vancouver,BC,CA,masters,Dalhousie University,1974.0,1976.0,Halifax,NS,CA
+Christina Connors,bachelors,Saint Mary's University,2009.0,2014.0,Halifax,NS,CA,masters,Saint Mary's University,2014.0,2016.0,Halifax,NS,CA
+Bill Wang,bachelors,University of Western Ontario,2003.0,2010.0,London,Ontario,CA,masters,University of Western Ontario,2013.0,2015.0,London,Ontario,CA
+Khalid Moomand,bachelors,University of Guelph,2005.0,2009.0,Guelph,ON,CA,phd,University of Guelph,2010.0,2014.0,Guelph,Ontario,CA
+Christopher Reid,bachelors,Laurentian University,1995.0,1999.0,Sudbury,ON,CA,masters,University of Waterloo,1999.0,2001.0,Waterloo,ON,CA
+Christopher Reid,masters,University of Waterloo,1999.0,2001.0,Waterloo,ON,CA,phd,University of Guelph,2002.0,2005.0,Guelph,ON,CA
+Aaron White,bachelors,University of Alberta,1991.0,1993.0,Edmonton,Alberta,CA,phd,University of Victoria,1993.0,2000.0,Victoria,British Columbia,CA
+Alexandre Arsenault,bachelors,McGill University,2012.0,2016.0,QC,QC,CA,masters,McMaster University,2016.0,2018.0,Hamilton,ON,CA
+Jean-Marc Gagnon,bachelors,Université de Montréal,1977.0,1981.0,Montréal,QC,CA,masters,Université de Montréal,1981.0,1983.0,Montréal,QC,CA
+Jean-Marc Gagnon,masters,Université de Montréal,1981.0,1983.0,Montréal,QC,CA,phd,Memorial University of Newfoundland Department of Biology,1983.0,1990.0,Saint John's,NL,CA
+Volker Deecke,bachelors,University of British Columbia,1992.0,1994.0,Vancouver,BC,CA,masters,University of British Columbia,1994.0,1998.0,Vancouver,BC,CA
+Georgios Katsenos,bachelors,McGill University,1994.0,1997.0,Montreal,QC,CA,masters,McGill University,1997.0,1999.0,Montreal,QC,CA
+Michelle Curry,bachelors,University of Manitoba,2007.0,2013.0,Winnipeg,MB,CA,masters,University of Manitoba,2013.0,2016.0,Winnipeg,Manitoba,CA
+Aaron Maxwell,bachelors,York University,2003.0,2007.0,Toronto,Ontario,CA,masters,University of Victoria,2008.0,2010.0,Victoria,BC,CA
+Thomas A. DeFalco,masters,Queen's University,2007.0,2010.0,Kingston,ON,CA,phd,University of Toronto,2011.0,2016.0,Toronto,ON,CA
+Heshan Fernando,bachelors,University of Victoria,2006.0,2011.0,Victoria,BC,CA,masters,Queen's University,2012.0,2014.0,Kingston,ON,CA
+Petra McDougall,bachelors,University of Victoria,2004.0,2008.0,Victoria,BC,CA,masters,University of Lethbridge,2008.0,2010.0,Lethbridge,AB,CA
+Tom Everrett,bachelors,Ryerson University,2001.0,2005.0,Toronto,ON,CA,masters,University of Calgary,2005.0,2007.0,Calgary,AB,CA
+Tom Everrett,masters,University of Calgary,2005.0,2007.0,Calgary,AB,CA,phd,Carleton University,2007.0,2014.0,Ottawa,ON,CA
+Felipe Morgado,bachelors,University of Toronto,2011.0,2015.0,Toronto,ON,CA,masters,University of Toronto,2015.0,2017.0,Toronto,ON,CA
+Lindsay Canham,bachelors,University of Alberta,2007.0,2011.0,Edmonton,AB,CA,masters,University of Alberta,2012.0,2015.0,Edmonton,AB,CA
+Jaclyn McLean,bachelors,University of Regina,2001.0,2006.0,Regina,Saskatchewan,CA,masters,University of Western Ontario,2006.0,2008.0,London,Ontario,CA
+Ilias Berberi,bachelors,University of Windsor,2012.0,2016.0,Windsor,ON,CA,masters,University of Ottawa,2016.0,2018.0,Ottawa,ON,CA
+Meghan Beale,bachelors,University of Ottawa,2011.0,2014.0,Ottawa,ON,CA,masters,University of Alberta,2016.0,2019.0,Edmonton,AB,CA
+Mariève Lafontaine,bachelors,Université Laval,2001.0,2005.0,Quebec,QC,CA,masters,Université Laval,2009.0,2014.0,Quebec,QC,CA
+Leland Jackson,bachelors,Queen's University,1980.0,1984.0,Kingston,ON,CA,masters,University of British Columbia,1985.0,1998.0,Vancouver,BC,CA
+Manon Lemonde,bachelors,Universite de Montreal,1975.0,1978.0,Montreal,QC,CA,masters,Universite de Montreal,1980.0,1982.0,Montreal,Quebec,CA
+Emily Walker,masters,University of Alberta,2010.0,2013.0,Edmonton,AB,CA,phd,University of Alberta,2013.0,2017.0,Edmonton,AB,CA
+Lauren Erland,masters,University of British Columbia Okanagan,2012.0,2015.0,Kelowna,BC,CA,phd,University of Guelph,2015.0,2019.0,Guelph,ON,CA
+Larry Unsworth,bachelors,University of Alberta,1994.0,1999.0,Edmonton,AB,CA,phd,McMaster University,1999.0,2005.0,Hamilton,ON,CA
+Kyle Plotsky,bachelors,University of Lethbridge,2008.0,2011.0,Lethbridge,AB,CA,masters,University of Lethbridge,2011.0,2013.0,Lethbridge,AB,CA
+Kyle Plotsky,masters,University of Lethbridge,2011.0,2013.0,Lethbridge,AB,CA,phd,University of Calgary,2014.0,2019.0,Calgary,AB,CA
+Eric Tourigny,bachelors,Laurentian University,2003.0,2007.0,Sudbury,ON,CA,masters,Memorial University of Newfoundland,2007.0,2009.0,Saint John's,NL,CA
+Joanne M Langley,bachelors,Queen's University,1976.0,1979.0,Kingston,ON,CA,masters,McMaster University,1988.0,1989.0,Hamilton,ON,CA
+William Ngo,bachelors,University of Waterloo,2004.0,2007.0,Waterloo,ON,CA,phd,University of Waterloo,2011.0,2016.0,Waterloo,Ontario,CA
+Blair Szymczyna,bachelors,University of Manitoba,1992.0,1996.0,Winnipeg,MB,CA,phd,University of Toronto,1996.0,2004.0,Toronto,ON,CA
+Jon Sweeney,bachelors,Simon Fraser University,1974.0,1979.0,Burnaby,BC,CA,phd,University of British Columbia,1981.0,1987.0,Vancouver,BC,CA
+Fiorella Fanton-Aita,bachelors,Université de Sherbrooke,2007.0,2011.0,Sherbrooke,QC,CA,masters,Universite de Montreal,2011.0,2012.0,Montreal,QC,CA
+Jaime Yu,bachelors,University of Alberta,1998.0,2002.0,Edmonton,AB,CA,masters,University of Alberta,2016.0,2019.0,Edmonton,AB,CA
+Nana Ofori-Opoku,bachelors,McMaster University,2002.0,2006.0,Hamilton,ON,CA,masters,McMaster University,2006.0,2008.0,Hamilton,ON,CA
+Nana Ofori-Opoku,masters,McMaster University,2006.0,2008.0,Hamilton,ON,CA,phd,McMaster University,2009.0,2013.0,Hamilton,ON,CA
+Crystal MacKay,bachelors,Queen's University,1992.0,1996.0,Kingston,Ontario,CA,phd,University of Toronto,2008.0,2016.0,Toronto,ON,CA
+Dave Carter,bachelors,Carleton University,1997.0,2001.0,Ottawa,ON,CA,masters,University of Ottawa Faculty of Engineering,2012.0,2015.0,Ottawa,ON,CA
+Manasa Seshan,bachelors,Carleton University,2011.0,2014.0,Ottawa,ON,CA,masters,Queen's University,2015.0,2016.0,Kingston,ON,CA
+Pranav Madhikar,bachelors,University of Waterloo,2008.0,2013.0,Waterloo,ON,CA,masters,University of Waterloo,2013.0,2015.0,Waterloo,ON,CA
+Shawn Morrison,bachelors,Saint Francis Xavier University,1991.0,1995.0,Antigonish,NS,CA,phd,University of Alberta,2002.0,2007.0,Edmonton,AB,CA
+Kari Roberts,masters,University of Manitoba,1995.0,1998.0,Winnipeg,MB,CA,phd,University of Calgary,1998.0,2004.0,Calgary,AB,CA
+Lee-Ann Sutherland,bachelors,Queen's University,1991.0,1995.0,Kingston,ON,CA,masters,University of Guelph,2008.0,2010.0,Guelph,ON,CA
+Gale Parchoma,masters,University of Victoria,1998.0,1999.0,Victoria,BC,CA,phd,University of Saskatchewan,2003.0,2007.0,Saskatoon,SK,CA
+Takayoshi Ikeda,bachelors,Dalhousie University,1996.0,2001.0,Halifax,NS,CA,masters,Dalhousie University,2001.0,2002.0,Halifax,NS,CA
+Andrea Brookfield,bachelors,University of Waterloo,1995.0,2000.0,Waterloo,ON,CA,masters,University of Waterloo,2000.0,2003.0,Waterloo,ON,CA
+Andrea Brookfield,masters,University of Waterloo,2000.0,2003.0,Waterloo,ON,CA,phd,University of Waterloo,2003.0,2009.0,Waterloo,ON,CA
+Melanie Noel,bachelors,Memorial University of Newfoundland,1999.0,2004.0,Saint John's,NL,CA,masters,Memorial University of Newfoundland,2004.0,2006.0,Saint John's,NL,CA
+Melanie Noel,masters,Memorial University of Newfoundland,2004.0,2006.0,Saint John's,NL,CA,phd,Dalhousie University,2007.0,2013.0,Halifax,NS,CA
+S. Michelle Driedger,bachelors,University of Winnipeg,1988.0,1995.0,Winnipeg,Manitoba,CA,masters,Carleton University,1995.0,1997.0,Ottawa,Ontario,CA
+S. Michelle Driedger,masters,Carleton University,1995.0,1997.0,Ottawa,Ontario,CA,phd,McMaster University,1997.0,2001.0,Hamilton,Ontario,CA
+Melissa Chee,bachelors,University of Alberta,2000.0,2004.0,Edmonton,Alberta,CA,phd,University of Alberta,2004.0,2009.0,Edmonton,Alberta,CA
+Vincent Wong,bachelors,University of Manitoba,1990.0,1994.0,Winnipeg,MB,CA,masters,University of Waterloo,1994.0,1996.0,Waterloo,ON,CA
+Vincent Wong,masters,University of Waterloo,1994.0,1996.0,Waterloo,ON,CA,phd,University of British Columbia,1996.0,2000.0,Vancouver,BC,CA
+Daniel Durocher,bachelors,Université de Montréal,1990.0,1993.0,Montreal,QC,CA,phd,McGill University,1993.0,1998.0,Montreal,QC,CA
+Brian Corrie,bachelors,University of Victoria,1984.0,1988.0,Victoria,BC,CA,masters,University of Victoria,1988.0,1990.0,Victoria,BC,CA
+Brian Corrie,masters,University of Victoria,1988.0,1990.0,Victoria,BC,CA,phd,University of Victoria,2003.0,2010.0,Victoria,BC,CA
+Elizabeth Kunkel,bachelors,University of Guelph,2011.0,2015.0,Guelph,ON,CA,masters,McGill University,2015.0,2017.0,Montreal,QC,CA
+Trevor Hrynyk,bachelors,University of Waterloo,2000.0,2005.0,Waterloo,ON,CA,phd,University of Toronto,2007.0,2013.0,Toronto,ON,CA
+Christopher Sears,bachelors,University of New Brunswick,1984.0,1989.0,Fredericton,NB,CA,masters,Western University,1989.0,1991.0,London,ON,CA
+Christopher Sears,masters,Western University,1989.0,1991.0,London,ON,CA,phd,Western University,1991.0,1996.0,London,ON,CA
+Tullio V. F. Esposito,bachelors,University of British Columbia,2009.0,2013.0,Vancouver,BC,CA,masters,University of British Columbia,2013.0,2016.0,Vancouver,BC,CA
+Tamer Abdelkader,masters,University of Waterloo Faculty of Engineering,2006.0,2008.0,Waterloo,ON,CA,phd,University of Waterloo Faculty of Engineering,2008.0,2012.0,Waterloo,ON,CA
+Eric Stein,bachelors,Simon Fraser University,2010.0,2016.0,Burnaby,BC,CA,masters,Trinity Western University,2016.0,2018.0,Langley,BC,CA
+Marc-Andre Brideau,bachelors,Simon Fraser University,1997.0,2001.0,Burnaby,BC,CA,masters,Simon Fraser University,2002.0,2005.0,Burnaby,BC,CA
+Marc-Andre Brideau,masters,Simon Fraser University,2002.0,2005.0,Burnaby,BC,CA,phd,Simon Fraser University,2006.0,2010.0,Burnaby,BC,CA
+Erin Reid,bachelors,Concordia University,1997.0,2000.0,Montreal,QC,CA,masters,McGill University,2005.0,2008.0,Montreal,QC,CA
+Cheryl Ackert-Bicknell,bachelors,University of Guelph,1993.0,1997.0,Guelph,ON,CA,masters,University of Western Ontario Department,1997.0,2000.0,London,ON,CA
+Sharon Morsink,bachelors,University of Waterloo,1986.0,1991.0,Waterloo,ON,CA,phd,University of Alberta,1991.0,1996.0,Edmonton,AB,CA
+Caitlin Carter,bachelors,Wilfrid Laurier University,2004.0,2008.0,Waterloo,ON,CA,masters,Western University,2008.0,2010.0,London,ON,CA
+Leslie J. Saunders,bachelors,Dalhousie University,2007.0,2010.0,Halifax,Nova Scotia,CA,masters,Simon Fraser University,2010.0,2013.0,Burnaby,British Columbia,CA
+AnnaLisa Meyboom,bachelors,University of Waterloo,1988.0,1993.0,Waterloo,ON,CA,masters,University of British Columbia,2003.0,2007.0,Vancouver,BC,CA
+Jacqueline Torti,bachelors,Brock University,2005.0,2009.0,St. Catharines,ON,CA,masters,Brock University,2009.0,2011.0,Saint Catharines,ON,CA
+Jacqueline Torti,masters,Brock University,2009.0,2011.0,Saint Catharines,ON,CA,phd,University of Alberta,2011.0,2017.0,Edmonton,AB,CA
+Leslie Solomonian,bachelors,University of Guelph,1996.0,1999.0,Guelph,Ontario,CA,phd,Canadian College of Naturopathic Medicine,2000.0,2005.0,Toronto,Ontario,CA
+Joanne Benham Rennick,bachelors,Wilfrid Laurier University,1989.0,1994.0,Waterloo,ON,CA,masters,Wilfrid Laurier University,1994.0,1995.0,Waterloo,ON,CA
+Joanne Benham Rennick,masters,Wilfrid Laurier University,1994.0,1995.0,Waterloo,ON,CA,phd,University of Waterloo,2004.0,2008.0,Waterloo,ON,CA
+Megan Daniels,bachelors,Wilfrid Laurier University,2001.0,2005.0,Waterloo,ON,CA,masters,University of British Columbia,2007.0,2009.0,Vancouver,BC,CA
+Tyler Elliott,bachelors,University of Guelph,2003.0,2008.0,Guelph,ON,CA,masters,University of Guelph,2008.0,2011.0,Guelph,ON,CA
+Tyler Elliott,masters,University of Guelph,2008.0,2011.0,Guelph,ON,CA,phd,University of Guelph,2011.0,2016.0,Guelph,ON,CA
+Michel Dumontier,bachelors,University of Manitoba,1994.0,1998.0,Winnipeg,Manitoba,CA,phd,University of Toronto,1999.0,2004.0,Toronto,Ontario,CA
+Michael Greene,bachelors,York University,2003.0,2007.0,Toronto,ON,CA,masters,University of Toronto,2007.0,2009.0,Toronto,ON,CA
+Jeff Edmonds,bachelors,University of Waterloo,1982.0,1987.0,Waterloo,ON,CA,phd,University of Toronto,1988.0,1993.0,Toronto,ON,CA
+Martin Brochu,bachelors,Université Laval,1987.0,1990.0,Quebec,QC,CA,masters,Université Laval,1990.0,2012.0,Quebec,QC,CA
+Danielle Bourque,bachelors,University of Guelph,2012.0,2016.0,Guelph,ON,CA,masters,University of Guelph,2016.0,2019.0,Guelph,ON,CA
+Jason Song,bachelors,Royal Military College Of Canada Department of Chemistry and Chemical Engineering,2009.0,2013.0,Kingston,ON,CA,masters,Royal Military College Of Canada Department of Chemistry and Chemical Engineering,2013.0,2015.0,Kingston,ON,CA
+Amanda D. Smith-Demers,bachelors,University of Lethbridge,2006.0,2009.0,Lethbridge,AB,CA,masters,University of Calgary,2011.0,2013.0,Calgary,AB,CA
+Miriam  Matejova,bachelors,University of Northern British Columbia,2004.0,2008.0,Prince George,BC,CA,masters,Carleton University Norman Paterson School of International Affairs,2009.0,2012.0,Ottawa,ON,CA
+Miriam  Matejova,masters,Carleton University Norman Paterson School of International Affairs,2009.0,2012.0,Ottawa,ON,CA,phd,University of British Columbia,2013.0,2019.0,Vancouver,BC,CA
+Chantel Ramraj,bachelors,McMaster University,2005.0,2009.0,Hamilton,ON,CA,masters,University of Toronto,2010.0,2012.0,Toronto,ON,CA
+Frédéric Mayer,bachelors,Université de Montréal,1999.0,2002.0,Montreal,Quebec,CA,masters,ENAP-Montreal,2008.0,2012.0,Montreal,Quebec,CA

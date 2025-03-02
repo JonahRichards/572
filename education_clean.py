@@ -65,15 +65,20 @@ def main(input_csv="education_data_raw.csv", output_csv="education_data_cleaned.
     print(f"Initial data shape: {df.shape}")
 
     # Define the expected flattened column names from the previous extraction.
-    # Adjust these keys if your flattening script produced slightly different names.
+    # Adjust these keys if your flattening script produced different names.
     required_columns = {
         "id": "education.source.source-orcid.path",
         "name": "education.source.source-name",
         "university": "education.organization.name",
-        "role_title": "education.role-title"
+        "role_title": "education.role-title",
+        "start_year": "education.start-date.year",
+        "end_year": "education.end-date.year",
+        "city": "education.organization.address.city",
+        "region": "education.organization.address.region",
+        "country": "education.organization.address.country"
     }
     
-    # Check for missing required columns.
+    # Check for missing required columns in the raw CSV.
     missing_cols = [col for col in required_columns.values() if col not in df.columns]
     if missing_cols:
         print(f"Error: The following required columns are missing in the raw CSV: {missing_cols}")
@@ -84,7 +89,12 @@ def main(input_csv="education_data_raw.csv", output_csv="education_data_cleaned.
         required_columns["id"]: "id",
         required_columns["name"]: "name",
         required_columns["university"]: "university",
-        required_columns["role_title"]: "role_title"
+        required_columns["role_title"]: "role_title",
+        required_columns["start_year"]: "start_year",
+        required_columns["end_year"]: "end_year",
+        required_columns["city"]: "city",
+        required_columns["region"]: "region",
+        required_columns["country"]: "country"
     })
     
     print("\nExtracted columns preview:")
@@ -92,11 +102,12 @@ def main(input_csv="education_data_raw.csv", output_csv="education_data_cleaned.
     
     # Drop rows with any nulls in the required columns.
     before_drop = df_extracted.shape[0]
-    df_extracted.dropna(subset=["id", "name", "university", "role_title"], inplace=True)
+    df_extracted.dropna(subset=["id", "name", "university", "role_title", 
+                                  "start_year", "end_year", "city", "region", "country"], inplace=True)
     after_drop = df_extracted.shape[0]
     print(f"\nDropped {before_drop - after_drop} rows due to missing required fields.")
     
-    # Classify each role_title.
+    # Classify each role_title into a degree category.
     print("\nClassifying role titles into degree categories...")
     df_extracted["degree"] = df_extracted["role_title"].apply(classify_role)
     
@@ -109,8 +120,9 @@ def main(input_csv="education_data_raw.csv", output_csv="education_data_cleaned.
     print("\nDegree classification distribution:")
     print(df_extracted["degree"].value_counts())
     
-    # Create the final DataFrame with four columns: id, name, university, and degree.
-    df_final = df_extracted[["id", "name", "university", "degree"]]
+    # Create the final DataFrame with the desired columns.
+    df_final = df_extracted[["id", "name", "university", "degree", 
+                             "start_year", "end_year", "city", "region", "country"]]
     
     # Save the final cleaned data to CSV.
     df_final.to_csv(output_csv, index=False)
