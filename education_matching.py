@@ -2,7 +2,7 @@
 Attemps to clean education data my matching common mispellings or qualified (e.g. Department of XXXX) uni names to more commonly occuring canonical names.
 
 Author: Jonah Richards
-Date: 2025-04-5
+Date: 2025-04-7
 """
 
 import pandas as pd

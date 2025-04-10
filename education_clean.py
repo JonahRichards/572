@@ -1,7 +1,7 @@
 """
 Cleans raw education listing data by dropping incomplete rows, cleaning uni name formatting and categorizing degree types.
-Author: Jonah Richards
 
+Author: Jonah Richards
 Date: 2025-03-02
 """
 
